@@ -1,0 +1,833 @@
+Groupe,Nom scientifique,Nom vernaculaire,Nb en 1 jour,Date,Mois numéro,Mois,Département,Commune,Y,X,Observation,Habitat,Coche,Altitude,Observateur
+Arachnides,Zilla diodia,Diodie tête de mort,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,Battage,Thym,FAUX,4.615787029266357,Enna
+Arachnides,Mangora acalypha,Mangore petite bouteille,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,Battage,Lierre,FAUX,4.615787029266357,Enna
+Hémiptères,Pyrrhocoris apterus,Gendarme,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,Sous caillou,Au sol,FAUX,4.615787029266357,Enna
+Coléoptères,Chrysolina americana,Chrysomèle du romarin,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,Battage,Romarin,FAUX,4.615787029266357,Enna
+Hémiptères,Palomena prasina,Punaise verte,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165556,Battage,Lierre,FAUX,4.616586685180664,Enna
+Coléoptères,Rhyzobius chrysomeloides,Rhizobie des arbres,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165557,Battage,Lierre,FAUX,4.617386817932129,Enna
+Hémiptères,Eupteryx decemnotata,Cicadelle de la menthe,7,01/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165558,Battage,Romarin,VRAI,4.618187427520752,Enna
+Hémiptères,Rhaphigaster nebulosa,Punaise nebuleuse,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.857977,-4.165373,Battage,Lierre,FAUX,0.8594372272491455,Enna
+Arachnides,Agalenatea redii,Epeire de velours,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Ajonc,FAUX,2.583268404006958,Enna
+Hémiptères,Dolycoris baccarum,Punaise des baies,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.857977,-4.165373,Battage,Cyprès,FAUX,0.8594372272491455,Enna
+Coléoptères,Harmonia axiridis,Coccinelle asiatique,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Coléoptères,Chilocorus bipustulatus,Coccinelle des landes,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Coléoptères,Tytthaspis sedecimpunctata,Coccinelle à 16 points,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.85971,-4.164213,Battage,Ronce,FAUX,2.5194308757781982,Enna
+Arachnides,Anyphaena accentuata,Anyphène à chevrons,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.85971,-4.164213,Battage,Ajonc,FAUX,2.5194308757781982,Enna
+Coléoptères,Harmonia quadripunctata,Cocinelle à 4 points,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,VRAI,2.583268404006958,Enna
+Coléoptères,Lindorus lophantae,/,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Coléoptères,Stethorus pusillus,/,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Hémiptères,Corizus hyoscyami,Punaise de la jusquiame,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Hétérocères,Lasiocampa quercus,Bombyx du chêne,13,04/01/2021,1,01Janvier,Finistère,Combrit,47.857977,-4.165373,Battage,Lierre,FAUX,0.8594372272491455,Enna
+Hémiptères,Physatocheila dumetorum,/,13,04/01/2021,1,01Janvier,Finistère,Ile Tudy,47.860839,-4.165293,Battage,Saule,VRAI,3.6497621536254883,Enna
+Coléoptères,Oenopia conglobata,Coccinelle rose,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Cyprès,FAUX,2.583268404006958,Enna
+Rhopalocères,Thecla betulae,Thécla du bouleau,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.858385,-4.166747,A vue,Prunellier,FAUX,1.7034088373184204,Enna
+Arachnides,Gibbaranea gibbosa,Epeire à bosses,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.86,-4.164139,Battage,Chêne,FAUX,2.583268404006958,Enna
+Hémiptères,Tuberolachnus salignus,Puceron géant du saule,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.860839,-4.165293,Battage,Saule,VRAI,3.6497621536254883,Enna
+Hémiptères,Liguropia juniperi,/,7,05/01/2021,1,01Janvier,Finistère,Ile Tudy,47.860839,-4.165293,Battage,Cyprès,VRAI,3.6497621536254883,Enna
+Hémiptères,Physatocheila dumetorum,/,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.860839,-4.165293,Battage,Aubépine,VRAI,3.6497621536254883,Enna
+Hémiptères,Platycranus bicolor,/,7,05/01/2021,1,01Janvier,Finistère,Combrit,47.860839,-4.165293,Battage,Genêt,VRAI,3.6497621536254883,Enna
+Diptères,Geomyza tripunctata,Mouche des graminées,3,06/01/2021,1,01Janvier,Finistère,Île-Tudy,47.84484,-4.167087,Battage,Cyprès,VRAI,2.784954071044922,Enna
+Diptères,Tephritis vespertina,/,3,06/01/2021,1,01Janvier,Finistère,Île-Tudy,47.84484,-4.167087,Battage,Cyprès,FAUX,2.784954071044922,Enna
+Arachnides,Zygiella x-notata,Epeire des fenêtres,3,06/01/2021,1,01Janvier,Finistère,Île-Tudy,47.847861,-4.165726,Battage,Cyprès,FAUX,5.147885322570801,Enna
+Hémiptères,Issus coleoptratus,Cigale bossue,2,07/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,Battage,Cotoneaster,FAUX,4.615787029266357,Enna
+Rhopalocères,Vanessa atalanta,Vulcain,2,07/01/2021,1,01Janvier,Finistère,Île-Tudy,47.848959,-4.165555,A vue,Jardin,FAUX,4.615787029266357,Enna
+Insectes tricheurs,Ascalaphus encadrus,Ascalaphe créé avec amour,1,09/01/2021,1,01Janvier,Hérault,Montpellier,43.629843,3.844633,A vue,Appartement,FAUX,52.773399353027344,Enna
+Hémiptères,Gonocerus insidiator,/,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Chêne,FAUX,314.9337463378906,Enna
+Hémiptères,Gonocerus acuteangulatus,Gonocère du buis,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Lierre,FAUX,314.9337463378906,Enna
+Coléoptères,Oenopia lyncea,/,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Chêne,FAUX,314.9337463378906,Enna
+Hémiptères,Synophropsis lauri,Cicadelle du laurier,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Chêne,VRAI,314.9337463378906,Enna
+Hémiptères,Raglius alboacuminatus,/,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Lierre,VRAI,314.9337463378906,Enna
+Arachnides,Icius subinermis,/,6,17/01/2021,1,01Janvier,Hérault,Laroque,43.91737,3.740518,Battage,Lierre,FAUX,314.9337463378906,Enna
+Orthoptères,Anacrydium aegyptium,Criquet egyptien,3,24/01/2021,1,01Janvier,Hérault,Mireval,43.522456,3.819826,Fauchage,Hautes herbes,FAUX,18.819316864013672,Enna
+Orthoptères,Acrotylus fischeri,Oedipode occidentale,3,24/01/2021,1,01Janvier,Hérault,Mireval,43.522907,3.819151,A vue,Au sol,FAUX,25.420141220092773,Enna
+Coléoptères,Crioceris paracenthesis,Criocère de l'asperge,3,24/01/2021,1,01Janvier,Hérault,Mireval,43.523543,3.819344,Battage,Ciste,VRAI,25.479190826416016,Enna
+Arachnides,Dermacentor marginatus,/,5,26/01/2021,1,01Janvier,Hérault,Saint-Guilhem-le-Désert,43.705055,3.558791,Battage,Lierre,FAUX,48.30875015258789,Enna
+Arachnides,Aphantaulax trifasciata,/,5,26/01/2021,1,01Janvier,Hérault,Saint-Guilhem-le-Désert,43.70455,3.558763,Battage,Chêne,VRAI,49.85117721557617,Enna
+Arachnides,Nigma walckenaeri,/,5,26/01/2021,1,01Janvier,Hérault,Saint-Guilhem-le-Désert,43.70313,3.559959,Battage,Chêne,VRAI,57.17721176147461,Enna
+Coléoptères,Deroplia genei,/,5,26/01/2021,1,01Janvier,Hérault,Saint-Guilhem-le-Désert,43.704748,3.558835,Battage,Chêne,VRAI,49.521263122558594,Enna
+Coléoptères,Dorytomus longimanus,/,5,26/01/2021,1,01Janvier,Hérault,Saint-Guilhem-le-Désert,43.705991,3.559196,Battage,Chêne,VRAI,52.60904312133789,Enna
+Diptères,Tephritis matricariae,/,5,27/01/2021,1,01Janvier,Hérault,Notre-Dame-de-Londres,43.815504,3.779431,Fauchage,Garrigue,VRAI,197.13160705566406,Enna
+Diptères,Tephritis divisa,/,5,27/01/2021,1,01Janvier,Hérault,Notre-Dame-de-Londres,43.815504,3.779431,Fauchage,Garrigue,VRAI,197.13160705566406,Enna
+Diptères,Tephritis pulchra,/,5,27/01/2021,1,01Janvier,Hérault,Rouet,43.811605,3.800806,Fauchage,Garrigue,VRAI,239.15716552734375,Enna
+Hétérocères,Thaumetopoea pityocampa,Processionnaire du pin,5,27/01/2021,1,01Janvier,Hérault,Rouet,43.811605,3.800806,A vue,Pin,FAUX,239.15716552734375,Enna
+Hémiptères,Holcogaster fibulata,/,5,27/01/2021,1,01Janvier,Hérault,Rouet,43.811605,3.800806,Battage,Pin,FAUX,239.15716552734375,Enna
+Hémiptères,Leptoglossus occidentalis,Punaise américaine,1,28/01/2021,1,01Janvier,Drôme,Vassieux-en-Vercors,44.871049,5.390975,A vue,Appartement,VRAI,1104.41552734375,Enna
+Hyménoptères,Apis mellifera,Abeille mellifère,1,06/02/2021,2,02Février,Hérault,Montpellier,43.629843,3.844633,A vue,Balcon,FAUX,52.773399353027344,Enna
+Arachnides,Thomisus onustus,Thomise enflé,12,07/02/2021,2,02Février,Hérault,Mourèze,43.618462,3.359218,Battage,Bruyère,FAUX,226.9186553955078,Enna
+Coléoptères,Adalia decempunctata,Coccinelle à 10 points,12,07/02/2021,2,02Février,Hérault,Mourèze,43.61965,3.359235,Battage,Chêne,FAUX,237.9788055419922,Enna
+Hémiptères,Gonocerus juniperi,Gonocère du genévrier,12,07/02/2021,2,02Février,Hérault,Mourèze,43.620908,3.359504,Battage,Genévrier,FAUX,244.98834228515625,Enna
+Psocoptères,Graphopsocus cruciatus,/,12,07/02/2021,2,02Février,Hérault,Mourèze,43.618462,3.359218,Battage,Arbousier,FAUX,226.9186553955078,Enna
+Hémiptères,Acrosternum heegeri,/,12,07/02/2021,2,02Février,Hérault,Mourèze,43.619232,3.357421,Battage,Cèdre,FAUX,224.23284912109375,Enna
+Hémiptères,Kleidocerys ericae,/,12,07/02/2021,2,02Février,Hérault,Mourèze,43.620082,3.358531,Battage,Pin,FAUX,232.59156799316406,Enna
+Hémiptères,Anthocoris nemoralis,/,12,07/02/2021,2,02Février,Hérault,Mourèze,43.619232,3.357421,Battage,Cèdre,VRAI,224.23284912109375,Enna
+Arachnides,Larinioides cornutus,Epeire des roseaux,12,07/02/2021,2,02Février,Hérault,Clermont-l'Hérault,43.652695,3.361807,Fauchage,Garrigue,FAUX,183.69142150878906,Enna
+Coléoptères,Gonioctena variabilis,/,12,07/02/2021,2,02Février,Hérault,Clermont-l'Hérault,43.652695,3.361807,Battage,Genêt,FAUX,183.69142150878906,Enna
+Arachnides,Anelosimus vittatus,/,12,07/02/2021,2,02Février,Hérault,Clermont-l'Hérault,43.661182,3.394483,Battage,Chêne,VRAI,220.18157958984375,Enna
+Hétérocères,Peribatodes rhomboidaria,Boarmie commune,12,07/02/2021,2,02Février,Hérault,Clermont-l'Hérault,43.661182,3.394483,Battage,Nerprun,FAUX,220.18157958984375,Enna
+Hétérocères,Amphipyra effusa,Noctuelle diffuse,12,07/02/2021,2,02Février,Hérault,Clermont-l'Hérault,43.661182,3.394483,Battage,Nerprun,VRAI,220.18157958984375,Enna
+Arachnides,Salticus propinquus,Saltique voisin,1,10/02/2021,2,02Février,Hérault,Montpellier,43.629843,3.844633,A vue,Appartement,VRAI,52.773399353027344,Enna
+Coléoptères,Hippodamia variegata,Coccinelle des friches,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.702984,3.869272,Battage,Chêne,FAUX,94.98744201660156,Enna
+Arachnides,Gibbaranea bituberculata,Épeire à bosses,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.70261,3.869929,Battage,Ciste,FAUX,98.447021484375,Enna
+Arachnides,Pisaura mirabilis,Pisaure admirable,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.702342,3.870213,Fauchage,Garrigue,FAUX,99.2467041015625,Enna
+Hyménoptères,Crematogaster scutellaris,Fourmis écussonnée,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.697561,3.85547,Battage,Lierre,FAUX,59.96845245361328,Enna
+Collemboles,Sminthurus multipunctatus,/,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.702517,3.869431,Battage,Cèdre,VRAI,98.98347473144531,Enna
+Hémiptères,Compsidolon crotchi,/,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.702342,3.870213,Battage,Romarin,VRAI,99.2467041015625,Enna
+Hémiptères,Euphyllura olivina,Psylle de l'Olivier,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.702317,3.869986,Battage,Olivier,VRAI,99.37525177001953,Enna
+Hémiptères,Corythucha ciliata,Tigre du platane,13,13/02/2021,2,02Février,Hérault,Saint-Clément-de-Rivière,43.717768,3.844174,Sous écorce,Platane,FAUX,77.43829345703125,Enna
+Arachnides,Hysterochelifer meridianus,/,13,13/02/2021,2,02Février,Hérault,Saint-Clément-de-Rivière,43.717768,3.844174,Sous écorce,Platane,VRAI,77.43829345703125,Enna
+Hémiptères,Arocatus roeselii,/,13,13/02/2021,2,02Février,Hérault,Saint-Clément-de-Rivière,43.717021,3.84496,Sous écorce,Platane,VRAI,73.82257843017578,Enna
+Collemboles,Dicyrtomina ornata,/,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.697561,3.85547,Battage,Lierre,FAUX,59.96845245361328,Enna
+Coléoptères,Nephus quadrimaculatus,/,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.697561,3.85547,Battage,Lierre,FAUX,59.96845245361328,Enna
+Collemboles,Orchesella cincta,/,13,13/02/2021,2,02Février,Hérault,Prades-le-Lez,43.697561,3.85547,Battage,Lierre,VRAI,59.96845245361328,Enna
+Arachnides,Synema globosum,Thomise Napoléon,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,FAUX,30.56948471069336,Enna
+Arachnides,Simitidion simile,/,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,VRAI,30.56948471069336,Enna
+Arachnides,Nigma puella,/,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,FAUX,30.56948471069336,Enna
+Arachnides,Macaroeris nidicolens,/,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,VRAI,30.56948471069336,Enna
+Arachnides,Kochiura aulica,/,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,VRAI,30.56948471069336,Enna
+Hémiptères,Tettigometra griseola,/,6,19/02/2021,2,02Février,Hérault,Saint-Jean-de-Védas,43.562367,3.821992,Battage,Chêne,VRAI,30.56948471069336,Enna
+Rhopalocères,Pararge aegeria,Tircis,14,23/02/2021,2,02Février,Hérault,Clapiers,43.659989,3.885118,A vue,Sous-bois,FAUX,99.17547607421875,Enna
+Hétérocères,Macroglossum stellatarum,Moro-sphinx,14,23/02/2021,2,02Février,Hérault,Clapiers,43.659962,3.882843,A vue,Romarin,FAUX,87.018341064453125,Enna
+Orthoptères,Pyrgomorpha conica,Pyrgomorphe à tête conique,14,23/02/2021,2,02Février,Hérault,Clapiers,43.659962,3.882843,A vue,Au sol,FAUX,87.018341064453125,Enna
+Orthoptères,Aiolopus strepens,Oedipode automnales,14,23/02/2021,2,02Février,Hérault,Clapiers,43.659962,3.882843,A vue,Au sol,FAUX,87.018341064453125,Enna
+Odonates,Sympecma fusca,Leste brun,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Garrigue,FAUX,72.934783935546875,Enna
+Coléoptères,Coccinella septempunctata,Coccinelle à 7 points,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Romarin,FAUX,72.934783935546875,Enna
+Myriapodes,Glomeris annulata,Gloméris annelé,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,Sous caillou,Au sol,FAUX,72.934783935546875,Enna
+Coléoptères,Cicindela campestris,Cicindèle champêtre,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Au sol,FAUX,72.934783935546875,Enna
+Coléoptères,Tropinota squalida,Cétoine hérissée,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Romarin,FAUX,72.934783935546875,Enna
+Coléoptères,Lachnaia cylindrica,/,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,Battage,Pin,FAUX,72.934783935546875,Enna
+Hyménoptères,Osmia cornuta,Osmie cornue,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Romarin,FAUX,72.934783935546875,Enna
+Arachnides,Philaeus chrysops,Saltique sanguinolent,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,Sous caillou,Au sol,FAUX,72.934783935546875,Enna
+Diptères,Peleteria meridionalis,/,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Au sol,VRAI,72.934783935546875,Enna
+Hémiptères,Deraeocoris punctulatus,/,14,23/02/2021,2,02Février,Hérault,Clapiers,43.660467,3.882113,A vue,Romarin,VRAI,72.934783935546875,Enna
+Hémiptères,Coreus marginatus,Corée marginée,6,24/02/2021,2,02Février,Hérault,Montpellier,43.633853,3.860481,A vue,Potager,FAUX,53.157508850097656,Enna
+Hémiptères,Oxycarenus lavaterae,Punaise du tilleul,6,24/02/2021,2,02Février,Hérault,Montpellier,43.634271,3.860818,A vue,Hautes herbes,FAUX,53.34428787231445,Enna
+Zygentomes,Tricholepisma aurea,/,6,24/02/2021,2,02Février,Hérault,Montpellier,43.633335,3.860683,Sous caillou,Au sol,VRAI,51.120704650878906,Enna
+Diptères,Episyrphus balteatus,Syrphe ceinturé,6,24/02/2021,2,02Février,Hérault,Montpellier,43.633079,3.860929,A vue,Brassicacée,FAUX,50.83385467529297,Enna
+Hyménoptères,Messor barbarus,/,6,24/02/2021,2,02Février,Hérault,Montpellier,43.633335,3.860683,Sous caillou,Au sol,FAUX,51.120704650878906,Enna
+Crustacés,Porcellio spinicornis,/,6,24/02/2021,2,02Février,Hérault,Montpellier,43.633335,3.860683,A vue,Au sol,VRAI,51.120704650878906,Enna
+Rhopalocères,Gonepteryx cleopatra,Citron de provence,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.814933,3.854827,A vue,Bord de route,FAUX,305.269287109375,Enna
+Rhopalocères,Libythea celtis,Echancré,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.863892,3.822194,A vue,Cime des arbres,FAUX,307.37237548828125,Enna
+Arachnides,Uloborus walckenaerius,Ulobore de Walckenaer,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.863882,3.821668,Fauchage,Thym,FAUX,306.84771728515625,Enna
+Hémiptères,Piezodorus lituratus,Punaise des genêts,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.862127,3.817423,Battage,Chêne,FAUX,293.37030029296875,Enna
+Orthoptères,Tetrix depressa,Tetrix déprimé,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.862127,3.817423,A vue,Au sol,VRAI,293.37030029296875,Enna
+Coléoptères,Cicindela maroccana,Cicindèle marocaine,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.862127,3.817423,A vue,Au sol,VRAI,293.37030029296875,Enna
+Coléoptères,Lampyris noctiluca,Ver luisant,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.861114,3.81575,A vue,Au sol,FAUX,292.1205749511719,Enna
+Hémiptères,Picromerus nigridens,/,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.862127,3.817423,Battage,Chêne,VRAI,293.37030029296875,Enna
+Hétérocères,Lasiocampa trifolii,Bombyx du trèfle,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.863882,3.821668,A vue,Thym,FAUX,306.84771728515625,Enna
+Hétérocères,Watsonalla uncinula,Hameçon méridional,10,26/02/2021,2,02Février,Hérault,Ferrières-les-Verreries,43.862127,3.817423,Battage,Chêne,FAUX,293.37030029296875,Enna
+Coléoptères,Geotrupes stercorarius,Géotrupe du fumier,3,01/03/2021,3,03Mars,Ariège,Sentein,42.835936,0.946234,A vue,Au sol,VRAI,1056.5849609375,Enna
+Rhopalocères,Celastrina argiolus,Azuré des Nerpruns,3,01/03/2021,3,03Mars,Ariège,Sentein,42.875498,0.951158,A vue,Jardin,FAUX,762.53411865234375,Enna
+Collemboles,Entomobrya albocincta,/,3,01/03/2021,3,03Mars,Ariège,Sentein,42.875171,0.951649,Sous écorce,Platane,VRAI,754.79248046875,Enna
+Coléoptères,Halyzia sedecimguttata,Coccinelle orange,1,02/03/2021,3,03Mars,Ariège,Sentein,42.875176,0.950843,Battage,Lierre,FAUX,764.27752685546875,Enna
+Dermaptères,Forficula auricularia,/,3,03/03/2021,3,03Mars,Ariège,Sentein,42.82302,0.921501,Sous caillou,Au sol,FAUX,1189.1322021484375,Enna
+Coléoptères,Chrysolina marginata,/,3,03/03/2021,3,03Mars,Ariège,Sentein,12.82302,0.921501,Sous caillou,Au sol,VRAI,NA,Enna
+Coléoptères,Timarcha goettingensis,/,3,03/03/2021,3,03Mars,Ariège,Sentein,12.82302,0.921501,A vue,Au sol,VRAI,NA,Enna
+Arachnides,Nuctenea umbratica,Epeire des fissures,1,05/03/2021,3,03Mars,Ariège,Sentein,42.875171,0.951649,Sous écorce,Platane,FAUX,754.79248046875,Enna
+Hyménoptères,Xylocopa violacea,Xylocope violet,1,08/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Romarin,VRAI,769.77886962890625,Enna
+Hémiptères,Bathysolen nubilus,/,1,09/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,Grattage litière,Au sol,VRAI,769.77886962890625,Enna
+Hémiptères,Vilpianus galii,/,3,10/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,Grattage litière,Au sol,FAUX,769.77886962890625,Enna
+Hémiptères,Spilostethus pandurus,/,3,10/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,Grattage litière,Au sol,FAUX,769.77886962890625,Enna
+Hémiptères,Derula flavoguttata,/,3,10/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,Grattage litière,Au sol,VRAI,769.77886962890625,Enna
+Mantoptères,Empusa pennata,Empuse pénnée,3,11/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Thym,FAUX,769.77886962890625,Enna
+Coléoptères,Chrysolina kuesteri,/,3,11/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Romarin,VRAI,769.77886962890625,Enna
+Coléoptères,Minyops carinatus,/,3,11/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Au sol,VRAI,769.77886962890625,Enna
+Orthoptères,Tetrix subulata,Tetrix riverain,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.569564,5.97438,A vue,Au sol,FAUX,964.38165283203125,Enna
+Rhopalocères,Nymphalis polychloros,Grande tortue,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.570097,5.974541,A vue,Ripisylve,FAUX,969.16827392578125,Enna
+Rhopalocères,Pontia daplidice,Marbré de vert,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.572184,5.981587,A vue,Prairie,FAUX,983.72467041015625,Enna
+Coléoptères,Exochomus quadripustulatus,Coccinelle à virgule,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.570227,5.97456,Battage,Genévrier,FAUX,971.5799560546875,Enna
+Hémiptères,Geocoris erythrocephalus,Géocore à tête rouge,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.572184,5.981587,Battage,Chêne,VRAI,983.72467041015625,Enna
+Coléoptères,Tropinota hirta,/,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.570296,5.973615,A vue,Véronique,FAUX,975.94842529296875,Enna
+Hyménoptères,Cynips quercusfolii,/,7,13/03/2021,3,03Mars,Hautes-Alpes,La Roche-des-Arnauds,44.572184,5.981587,Battage,Chêne,VRAI,983.72467041015625,Enna
+Orthoptères,Acrotylus insubricus,OEdipode grenadine,4,14/03/2021,3,03Mars,Alpes-de-Haute-Provence,Forcalquier,43.977722,5.778355,A vue,Au sol,FAUX,665.767822265625,Enna
+Hémiptères,Tettigometra griseola,/,4,14/03/2021,3,03Mars,Alpes-de-Haute-Provence,Forcalquier,43.977722,5.778355,Battage,Chêne,VRAI,665.767822265625,Enna
+Hétérocères,Orthosia gothica,Gothique,4,14/03/2021,3,03Mars,Alpes-de-Haute-Provence,Forcalquier,43.977722,5.778355,Fauchage,Pelouse,VRAI,665.767822265625,Enna
+Hétérocères,Synopsia sociaria,Boarmie compagne,4,14/03/2021,3,03Mars,Alpes-de-Haute-Provence,Château-Arnoux-Saint-Auban,44.099375,6.017029,Fauchage,Armoise,VRAI,435.9782409667969,Enna
+Coléoptères,Scymnus subvillosus,/,1,18/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291361,5.994586,Fauchage,Prairie,VRAI,790.88702392578125,Enna
+Rhopalocères,Callophrys rubi,Argus vert,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106314,6.02243,A vue,Garrigue,FAUX,537.9774169921875,Enna
+Rhopalocères,Glaucopsyche melanops,Azuré de la Badasse,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106412,6.02261,A vue,Garrigue,FAUX,541.38385009765625,Enna
+Rhopalocères,Pseudophilotes baton,Azuré du Thym,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106314,6.02243,A vue,Garrigue,VRAI,537.9774169921875,Enna
+Rhopalocères,Anthocharis euphenoides,Aurore de Provence,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106412,6.02261,A vue,Garrigue,VRAI,541.38385009765625,Enna
+Rhopalocères,Iphiclides podalirius,Flambé,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.10845,6.019662,A vue,Garrigue,FAUX,534.98162841796875,Enna
+Rhopalocères,Lasiommata megera,Mégère,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106314,6.02243,A vue,Garrigue,FAUX,537.9774169921875,Enna
+Hémiptères,Coranus griseus,/,7,20/03/2021,3,03Mars,Alpes-de-Haute-Provence,Volonne,44.106314,6.02243,A vue,Au sol,FAUX,537.9774169921875,Enna
+Hémiptères,Cyphostethus tristriatus,/,5,21/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.289799,5.997938,Battage,Genévrier,FAUX,789.2152099609375,Enna
+Arachnides,Micrommata ligurina,/,5,21/03/2021,3,03Mars,Alpes-de-Haute-Provence,Saint-Geniez,44.239442,6.016017,A vue,Au sol,FAUX,1088.6407470703125,Enna
+Coléoptères,Myzia oblongoguttata,Coccinelle zébrée,5,21/03/2021,3,03Mars,Alpes-de-Haute-Provence,Saint-Geniez,44.238228,6.011543,Battage,Pin,VRAI,1120.427734375,Enna
+Hétérocères,Arctia festiva,Ecaille rose,5,21/03/2021,3,03Mars,Alpes-de-Haute-Provence,Saint-Geniez,44.23584,6.009959,Fauchage,Garrigue,FAUX,1070.8944091796875,Enna
+Rhopalocères,Aglais urticae,Petite tortue,5,21/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.290239,5.996678,A vue,Chemin,FAUX,786.799560546875,Enna
+Rhopalocères,Lycaena phlaeas,Cuivré commun,2,22/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291361,5.994586,A vue,Chemin,FAUX,790.88702392578125,Enna
+Rhopalocères,Erebia epistygne,Moiré provencale,2,22/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291361,5.994586,A vue,Chemin,VRAI,790.88702392578125,Enna
+Hétérocères,Noctua pronuba,Hibou,1,23/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,Sous caillou,Au sol,VRAI,766.43359375,Enna
+Hémiptères,Tritomegas bicolor,/,3,24/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Lamier,VRAI,766.43359375,Enna
+Rhopalocères,Gonepteryx rahmni,Citron,3,24/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Jardin,FAUX,766.43359375,Enna
+Rhopalocères,Boloria dia,Petite violette,3,24/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291247,5.99479,A vue,Pelouse,FAUX,789.0733642578125,Enna
+Coléoptères,Lilioceris lilii,Criocère du lis,2,25/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Lys,VRAI,766.43359375,Enna
+Hémiptères,Rhyparochromus vulgaris,/,2,25/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291845,5.9893980000000004,A vue,Au sol,VRAI,766.29290771484375,Enna
+Rhopalocères,Melitaea cinxia,Mélitée du palntain,1,26/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.292104,5.989572,A vue,Jardin,FAUX,765.82720947265625,Enna
+Coléoptères,Chrysomela populi,Chrysomèle du peuplier,7,27/03/2021,3,03Mars,Hautes-Alpes,Vitrolles,44.409414,5.968597,A vue,Peuplier,FAUX,563.218994140625,Enna
+Arachnides,Salticus scenicus,Saltique chevronnée,7,27/03/2021,3,03Mars,Hautes-Alpes,Lardier-et-Valença,44.410375,5.983152,Battage,Pin,VRAI,557.29339599609375,Enna
+Hémiptères,Lasiocoris anomalus,/,7,27/03/2021,3,03Mars,Hautes-Alpes,Vitrolles,44.409414,5.968597,Sous bois mort,Au sol,VRAI,563.218994140625,Enna
+Hémiptères,Ischnopeza hirticornis,/,7,27/03/2021,3,03Mars,Hautes-Alpes,Vitrolles,44.409414,5.968597,Sous bois mort,Au sol,VRAI,563.218994140625,Enna
+Coléoptères,Lacon punctatus,Lacon ponctué,7,27/03/2021,3,03Mars,Hautes-Alpes,Lardier-et-Valença,44.41087,5.982825,Sous écorce,Arbre mort,VRAI,558.79620361328125,Enna
+Dermaptères,Euborellia moesta,/,7,27/03/2021,3,03Mars,Hautes-Alpes,Vitrolles,44.409414,5.968597,Sous bois mort,Au sol,VRAI,563.218994140625,Enna
+Hétérocères,Bena bicolorana,Halias du chêne,7,27/03/2021,3,03Mars,Hautes-Alpes,Vitrolles,44.409414,5.968597,Battage,Chêne,VRAI,563.218994140625,Enna
+Rhopalocères,Carcharodus alcea,Point de Hongrie,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291446,5.994585,A vue,Potentille,FAUX,792.99957275390625,Enna
+Coléoptères,Tachyporus hypnorum,/,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.292698,5.995368,Fauchage,Pelouse,VRAI,819.176513671875,Enna
+Hémiptères,Philaenus spumarius,Philène spumeuse,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.292698,5.995368,Fauchage,Pelouse,FAUX,819.176513671875,Enna
+Rhopalocères,Pyrgus malvoides,Hespérie de l'Aigremoine,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291339,5.994824,A vue,Potentille,FAUX,791.39459228515625,Enna
+Arachnides,Runcinia grammica,Thomise rayé,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291182,5.994671,Fauchage,Pelouse,FAUX,787.1123046875,Enna
+Coléoptères,Perapion violaceum,/,6,28/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291182,5.994671,Fauchage,Pelouse,VRAI,787.1123046875,Enna
+Hémiptères,Tingis auriculata,/,2,29/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291339,5.994824,Fauchage,Pelouse,VRAI,791.39459228515625,Enna
+Hémiptères,Spilostethus saxatilis,Punaise à damier,2,29/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Romarin,FAUX,769.77886962890625,Enna
+Hétérocères,Spiris striata,Ecaille striée,1,30/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291622,5.989651,A vue,Au sol,VRAI,769.77886962890625,Enna
+Rhopalocères,Issoria lathonia,Petit nacré,2,31/03/2021,3,03Mars,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Jardin,FAUX,766.43359375,Enna
+Rhopalocères,Coenonympha pamphilus,Fadet commun,2,31/03/2021,3,03Mars,Alpes-de-Haute-Provence,Nibles,44.291514,5.9939,A vue,Chemin,FAUX,789.9525146484375,Enna
+Hyménoptères,Xylocopa iris,Petit xylocope bleu,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Jardin,VRAI,766.43359375,Enna
+Hémiptères,Eurydema oleracea,Punaise potagère,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Chou,FAUX,766.43359375,Enna
+Hémiptères,Eurydema ventralis,Punaise du chou,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Vaumeilh,44.291663,5.989223,A vue,Chou,VRAI,766.43359375,Enna
+Hyménoptères,Dasylabris maura,/,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29146,5.994769,A vue,Au sol,VRAI,794.078369140625,Enna
+Hyménoptères,Dinocampus coccinellae,/,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29146,5.994769,A vue,Au sol,VRAI,794.078369140625,Enna
+Coléoptères,Pseudocleonus cinereus,/,6,01/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29146,5.994769,A vue,Euphorbe,VRAI,794.078369140625,Enna
+Hétérocères,Eurranthis plummistaria,Fidonie plumeuse,3,02/04/2021,4,04Avril,Alpes-de-Haute-Provence,Forcalquier,43.979221,5.776534,A vue,Garrigue,VRAI,699.42572021484375,Enna
+Rhopalocères,Anthocharis cardamines,Aurore ,3,02/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.289768,5.993874,A vue,Chemin,FAUX,765.25762939453125,Enna
+Rhopalocères,Papilio machaon,Machaon,3,02/04/2021,4,04Avril,Alpes-de-Haute-Provence,Forcalquier,43.977983,5.777078,A vue,Chardon,FAUX,682.2279052734375,Enna
+Rhopalocères,Colias crocea,Souci,12,03/04/2021,4,04Avril,Var,Correns,43.498261,6.08688,A vue,Olivette,FAUX,221.71548461914062,Enna
+Rhopalocères,Pieris rapae,Piéride de la rave,12,03/04/2021,4,04Avril,Var,Correns,43.497482,6.083807,A vue,Olivette,FAUX,215.9945068359375,Enna
+Rhopalocères,Euchloe crameri,Marbré de Cramer,12,03/04/2021,4,04Avril,Var,Correns,43.497482,6.083807,A vue,Olivette,FAUX,215.9945068359375,Enna
+Rhopalocères,Tomares ballus,Faux-Cuivré smaragdin,12,03/04/2021,4,04Avril,Var,Correns,43.49895,6.094023,A vue,Olivette,VRAI,225.73094177246094,Enna
+Rhopalocères,Glaucopsyche alexis,Azuré des Cytises,12,03/04/2021,4,04Avril,Var,Correns,43.498668,6.089532,A vue,Friche,VRAI,214.87257385253906,Enna
+Hémiptères,Eurydema ornata,Punaise ornée,12,03/04/2021,4,04Avril,Var,Correns,43.498109,6.086875,A vue,Biscutelle,FAUX,220.27606201171875,Enna
+Névroptères,Libelloides coccajus,Ascalaphe soufré,12,03/04/2021,4,04Avril,Var,Correns,43.497689,6.085206,A vue,Friche,VRAI,217.03680419921875,Enna
+Hémiptères,Eurygaster austriaca,/,12,03/04/2021,4,04Avril,Var,Correns,43.499081,6.090458,A vue,Chemin,FAUX,222.71524047851563,Enna
+Hémiptères,Peirates stridulus,/,12,03/04/2021,4,04Avril,Var,Correns,43.499278,6.090941,Fauchage,Friche,VRAI,225.53616333007812,Enna
+Hémiptères,Cercopis intermedia,Cercope intermédiaire,12,03/04/2021,4,04Avril,Var,Correns,43.497283,6.084103,Fauchage,Olivette,VRAI,213.9744873046875,Enna
+Hétérocères,Adela australis,Adèle australe,12,03/04/2021,4,04Avril,Var,Correns,43.49929,6.081943,A vue,Chemin,FAUX,235.75079345703125,Enna
+Coléoptères,Lixus acicularis,/,12,03/04/2021,4,04Avril,Var,Correns,43.49929,6.081943,Fauchage,Jardin,VRAI,235.75079345703125,Enna
+Rhopalocères,Aporia crataegi,Gazé,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.074294,5.930001,A vue,Aubépine,FAUX,655.086669921875,Enna
+Myriapodes,Glomeris marginata,/,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.074548,5.926182,Sous bois mort,Au sol,VRAI,667.14715576171875,Enna
+Arachnides,Uroctea durandi,Araignée Clotho,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.079096,5.919627,Sous caillou,Au sol,VRAI,721.556396484375,Enna
+Arachnides,Euscorpius tergestinus,/,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.080637,5.919691,Sous bois mort,Au sol,FAUX,736.404052734375,Enna
+Rhopalocères,Zerynthia polyxena,Diane,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.080213,5.919991,A vue,Pelouse,VRAI,732.15692138671875,Enna
+Hémiptères,Leptopus marmoratus,/,6,08/04/2021,4,04Avril,Alpes-de-Haute-Provence,Mallefougasse-Augès,44.079096,5.919627,Sous caillou,Au sol,FAUX,721.556396484375,Enna
+Orthoptères,Dolichopoda azami,Sauterelle des grottes,2,09/04/2021,4,04Avril,Alpes-de-Haute-Provence,Saint-Geniez,44.21345,6.045126,A vue,Grotte,VRAI,904.971435546875,Enna
+Rhopalocères,Erynnis tages,Point de Hongrie,2,09/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29146,5.994769,A vue,Chemin,FAUX,794.078369140625,Enna
+Rhopalocères,Boloria euphrosyne,Grand collier argenté,5,11/04/2021,4,04Avril,Alpes-de-Haute-Provence,Volonne,44.119135,6.061362,A vue,Chemin,FAUX,787.76361083984375,Enna
+Hétérocères,Eriogaster catax,Laineuse du prunellier,5,11/04/2021,4,04Avril,Alpes-de-Haute-Provence,Volonne,44.120755,6.063717,A vue,Aubépine,VRAI,865.2955322265625,Enna
+Hétérocères,Eriogaster lanestris,Laineuse du cerisier,5,11/04/2021,4,04Avril,Alpes-de-Haute-Provence,Volonne,44.120669,6.064001,A vue,Aubépine,VRAI,864.06890869140625,Enna
+Hétérocères,Diacrisia purpura,Ecaille pourprée,5,11/04/2021,4,04Avril,Alpes-de-Haute-Provence,Volonne,44.119135,6.061362,A vue,Aubépine,VRAI,787.76361083984375,Enna
+Arachnides,Cyrba algerina,/,5,11/04/2021,4,04Avril,Alpes-de-Haute-Provence,Volonne,44.120669,6.064001,Sous caillou,Au sol,VRAI,864.06890869140625,Enna
+Rhopalocères,Polyommatus icarus,Azuré commun,3,13/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29159,5.993335,A vue,Chemin,FAUX,786.47869873046875,Enna
+Rhopalocères,Aricia agestis,Collier de corail,3,13/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29159,5.993335,A vue,Chemin,FAUX,786.47869873046875,Enna
+Rhopalocères,Cyaniris semiargus,Semi-argus,3,13/04/2021,4,04Avril,Alpes-de-Haute-Provence,Nibles,44.29159,5.993335,A vue,Chemin,FAUX,786.47869873046875,Enna
+Rhopalocères,Vanessa cardui,Belle dame,4,15/04/2021,4,04Avril,Alpes-de-Haute-Provence,Peyruis,44.041305,5.956422,A vue,Friche,FAUX,406.0478515625,Enna
+Coléoptères,Oxythyrea funesta,Cétoine grise,4,15/04/2021,4,04Avril,Alpes-de-Haute-Provence,Peyruis,44.049337,5.929911,A vue,Prairie,FAUX,563.4271240234375,Enna
+Rhopalocères,Spialia sertorius,Hespérie des Sanguisorbes,4,15/04/2021,4,04Avril,Alpes-de-Haute-Provence,Villeneuve,43.897899,5.844318,A vue,Rocheux,FAUX,437.4480285644531,Enna
+Myriapodes,Glomeris esterelana,/,4,15/04/2021,4,04Avril,Alpes-de-Haute-Provence,Villeneuve,43.897899,5.844318,Sous bois mort,Forêt,VRAI,437.4480285644531,Enna
+Orthoptères,Prionotropis azami,Criquet hérisson,4,19/04/2021,4,04Avril,Var,Ginasservis,43.672314,5.876397,A vue,Pelouse,VRAI,444.1579895019531,Enna
+Orthoptères,Arcyptera kheili,Criquet provençal,4,19/04/2021,4,04Avril,Var,Ginasservis,43.672314,5.876397,A vue,Pelouse,FAUX,444.1579895019531,Enna
+Orthoptères,Saga pedo,Magicienne dentelée,4,19/04/2021,4,04Avril,Var,Saint-Julien,43.687699,5.863685,A vue,Pelouse,VRAI,430.2432556152344,Enna
+Rhopalocères,Zerynthia rumina,Proserpine,4,19/04/2021,4,04Avril,Var,Saint-Julien,43.687302,5.86494,A vue,Pelouse,VRAI,430.3180236816406,Enna
+Coléoptères,Arima marginata,/,5,22/04/2021,4,04Avril,Var,La Verdière,43.634835,5.844689,A vue,Thym,VRAI,328.41778564453125,Enna
+Orthoptères,Gryllus campestris,Grillon des champs,5,22/04/2021,4,04Avril,Var,La Verdière,43.638232,5.910617,A vue,Au sol,FAUX,419.7121276855469,Enna
+Hémiptères,Tettigometra sulphurea,/,5,22/04/2021,4,04Avril,Var,La Verdière,43.638232,5.910617,Fauchage,Pelouse,VRAI,419.7121276855469,Enna
+Hémiptères,Arenocoris waltlii,/,5,22/04/2021,4,04Avril,Var,La Verdière,43.638232,5.910617,Fauchage,Pelouse,VRAI,419.7121276855469,Enna
+Hémiptères,Staria lunata,/,5,22/04/2021,4,04Avril,Var,La Verdière,43.638232,5.910617,Fauchage,Pelouse,VRAI,419.7121276855469,Enna
+Arachnides,Buthus occitanus,Scorpion languedocien,5,23/04/2021,4,04Avril,Var,Vinon-sur-Verdon,43.721589,5.847831,Sous caillou,Au sol,FAUX,313.6534118652344,Enna
+Hétérocères,Eurrhypis guttulalis,Petite Poudrée,5,23/04/2021,4,04Avril,Var,Vinon-sur-Verdon,43.669175,5.821296,A vue,Pelouse,VRAI,415.0135803222656,Enna
+Hétérocères,Minucia lunaris,Lunaire,5,23/04/2021,4,04Avril,Var,Vinon-sur-Verdon,43.67637,5.830924,A vue,Pelouse,VRAI,445.0659484863281,Enna
+Rhopalocères,Melitaea didyma,Mélitée orangée,5,23/04/2021,4,04Avril,Var,Ginasservis,43.675576,5.804034,A vue,Pelouse,FAUX,370.0065002441406,Enna
+Blattoptères,Ectobius lapponicus,Cafard du Nord,5,23/04/2021,4,04Avril,Var,Vinon-sur-Verdon,43.721705,5.847695,Sous caillou,Au sol,VRAI,315.1673889160156,Enna
+Rhopalocères,Callophrys avis,Thècle de l'arbousier,8,24/04/2021,4,04Avril,Var,Hyères,43.136369,6.107558,A vue,Maquis,VRAI,162.24502563476562,Enna
+Rhopalocères,Euphydryas aurinia,Damier de la Succise,8,24/04/2021,4,04Avril,Var,Correns,43.499075,6.091199,A vue,Prairie,FAUX,223.09078979492187,Enna
+Rhopalocères,Lysandra bellargus,Azuré bleu-céleste,8,24/04/2021,4,04Avril,Var,Correns,43.499075,6.091199,A vue,Prairie,FAUX,223.09078979492187,Enna
+Orthoptères,Tettigonia viridissima,Grande sauterelle verte,8,24/04/2021,4,04Avril,Var,Correns,43.498071,6.086832,A vue,Olivette,FAUX,219.91236877441406,Enna
+Hémiptères,Codophila varia,/,8,24/04/2021,4,04Avril,Var,Hyères,43.136369,6.107558,A vue,Ciste,VRAI,162.24502563476562,Enna
+Coléoptères,Anthaxia hungarica,Bupreste hongrois,8,24/04/2021,4,04Avril,Var,Correns,43.499238,6.090941,A vue,Astéracée,VRAI,225.09230041503906,Enna
+Coléoptères,Trichodes alvearius,Clairon des ruches,8,24/04/2021,4,04Avril,Var,Correns,43.498709,6.084257,A vue,Euphorbe,FAUX,228.97396850585937,Enna
+Hémiptères,Pachyxyphus lineellus,/,8,24/04/2021,4,04Avril,Var,Hyères,43.136369,6.107558,A vue,Ciste,VRAI,162.24502563476562,Enna
+Hétérocères,Zygaena lavandulae,Zygène de la Badasse,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.562399,6.173666,A vue,Romarin,VRAI,427.4476318359375,Enna
+Hétérocères,Zygaena rhadamantus,Zygène cendrée,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.561777,6.173013,A vue,Romarin,VRAI,424.9508056640625,Enna
+Arachnides,Misumena vatia,Thomise variable,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.56299,6.176869,A vue,Chêne,FAUX,435.6380310058594,Enna
+Coléoptères,Hister quadrimaculatus,Hister à quatre tâches,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.564848,6.174226,A vue,Chemin,FAUX,438.9385681152344,Enna
+Coléoptères,Tychius cinnamomeus,/,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.564848,6.174226,Fauchage,Badasse,VRAI,438.9385681152344,Enna
+Hémiptères,Sciocoris maculatus,/,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.564848,6.174226,Fauchage,Garrigue,VRAI,438.9385681152344,Enna
+Hémiptères,Dicranocephalus agilis,/,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.563046,6.175039,A vue,Romarin,FAUX,438.40814208984375,Enna
+Hémiptères,Camptopus lateralis,Alydide des genêts,8,25/04/2021,4,04Avril,Var,Sillans-la-Cascade,43.563046,6.175039,A vue,Romarin,FAUX,438.40814208984375,Enna
+Arachnides,Alopecosa albofasciata,/,2,30/04/2021,4,04Avril,Var,Artigues,43.539504,5.793955,A vue,Au sol,FAUX,599.42193603515625,Enna
+Coléoptères,Attelabus nitens,Cigarier du chêne,2,30/04/2021,4,04Avril,Var,Artigues,43.539504,5.793955,A vue,Pelouse,VRAI,599.42193603515625,Enna
+Rhopalocères,Colias alfacariensis,Fluoré,5,02/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.5570777,6.1933081,A vue,Chemin,FAUX,407.8702392578125,Enna
+Hémiptères,Lygaeus equestris,Punaise écuyère,5,02/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.561856,6.196217,A vue,Astéracée,FAUX,336.1416320800781,Enna
+Rhopalocères,Leptidea sinapis,Piéride de la moutarde,5,02/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.561856,6.196217,A vue,Chemin,FAUX,336.1416320800781,Enna
+Coléoptères,Calamobius filum,/,5,02/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.564311,6.182404,A vue,Astéracée,FAUX,365.1710510253906,Enna
+Hétérocères,Omia cyclopea,Cléophane cyclope,5,02/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.561856,6.196217,A vue,Pelouse,VRAI,336.1416320800781,Enna
+Diptères,Bombylella atra,Bombyle noir,3,03/05/2021,5,05Mai,Var,Régusse,43.656348,6.120454,A vue,Pelouse,VRAI,542.98382568359375,Enna
+Hétérocères,Malacosoma franconica,Franconienne,3,03/05/2021,5,05Mai,Var,Moissac-Bellevue,43.622034,6.157512,A vue,Badasse,FAUX,443.7777099609375,Enna
+Hétérocères,Eurrhypis pollinalis,Poudrée,3,03/05/2021,5,05Mai,Var,Moissac-Bellevue,43.627418,6.163491,A vue,Pelouse,VRAI,445.5475769042969,Enna
+Rhopalocères,Scolitantides orion,Azuré des Orpins,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.706493,6.077906,A vue,Thym,VRAI,434.1943664550781,Enna
+Rhopalocères,Lycaena alciphron,Cuivré mauvin,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.706493,6.077906,A vue,Thym,FAUX,434.1943664550781,Enna
+Rhopalocères,Cupido minimus,Argus frêle,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.687743,6.113589,A vue,Au sol,FAUX,506.4679870605469,Enna
+Névroptères,Libelloides lacteus,Ascalaphe blanc,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.67941,6.109083,A vue,Euphorbe,FAUX,561.0224609375,Enna
+Hémiptères,Rhynocoris erythropus,Réduve à pattes rouges,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.67941,6.109083,A vue,Thym,FAUX,561.0224609375,Enna
+Raphidioptères,Ornatoraphidia flavilabris,/,6,04/05/2021,5,05Mai,Var,Artignosc-sur-Verdon,43.6898,6.124517,A vue,Chemin,VRAI,546.24945068359375,Enna
+Hétérocères,Acontia lucida,Collier blanc,1,06/05/2021,5,05Mai,Var,Saint-Julien,43.626336,6.043892,A vue,Pelouse,VRAI,577.73504638671875,Enna
+Rhopalocères,Melanargia occitanica,Echiquier d'Occitanie,8,08/05/2021,5,05Mai,Var,Rians,43.5672804,5.7342162,A vue,Pelouse,VRAI,425.7200622558594,Enna
+Hémiptères,Cercopis sanguinolenta,Cercope sanguin,8,08/05/2021,5,05Mai,Var,Rians,43.5672804,5.7342162,A vue,Pelouse,FAUX,425.7200622558594,Enna
+Coléoptères,Cetonia aurata,Cétoine doré,8,08/05/2021,5,05Mai,Var,Rians,43.5672804,5.7342162,A vue,Pelouse,FAUX,425.7200622558594,Enna
+Hétérocères,Olethreutes arcuella,Tordeuse de l'oeillet,8,08/05/2021,5,05Mai,Var,Rians,43.5651095,5.7319008,A vue,Pelouse,VRAI,442.23193359375,Enna
+Hémiptères,Aelia rostrata,/,8,08/05/2021,5,05Mai,Var,Rians,43.5651095,5.7319008,Fauchage,Pelouse,FAUX,442.23193359375,Enna
+Hémiptères,Zicrona caerulea,Punaise verte bleuâtre,8,08/05/2021,5,05Mai,Bouches-du-Rhône,Vauvenargues,43.5624667,5.6257667,A vue,Pelouse,FAUX,488.87579345703125,Enna
+Hétérocères,Eucidia mi,Mi,8,08/05/2021,5,05Mai,Bouches-du-Rhône,Vauvenargues,43.5624667,5.6257667,A vue,Pelouse,FAUX,488.87579345703125,Enna
+Hétérocères,Euclidia glyphica,Doublure jaune,8,08/05/2021,5,05Mai,Bouches-du-Rhône,Vauvenargues,43.5624667,5.6257667,A vue,Pelouse,FAUX,488.87579345703125,Enna
+Diptères,Dorycera grandis,/,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.347492,6.408309,A vue,Ciste,VRAI,93.69447326660156,Enna
+Odonates,Ischnura elegans,Agrion élégant,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.345697,6.408856,A vue,Point d'eau,FAUX,88.66905212402344,Enna
+Coléoptères,Drasterius bimaculatus,Taupin noir à taches rouges,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.345697,6.408856,A vue,Au sol,VRAI,88.66905212402344,Enna
+Hémiptères,Velia rivulorum,Vélia méditerranéen,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.344589,6.401858,A vue,Point d'eau,VRAI,92.3747329711914,Enna
+Hyménoptères,Tropidotilla litoralis,/,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.344555,6.400155,A vue,Au sol,VRAI,95.6083984375,Enna
+Odonates,Libellula quadrimaculata,Libellule à quatre taches,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.345883,6.391819,A vue,Point d'eau,FAUX,84.95845031738281,Enna
+Rhopalocères,Nymphalis antiopa,Morio,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.346187,6.392522,A vue,Forêt,FAUX,84.42633056640625,Enna
+Hémiptères,Cercopis vulnerata,Cercope vulnérable,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.34613,6.392235,A vue,Peuplier,FAUX,84.18871307373047,Enna
+Odonates,Coenagrion puella,Agrion jouvencelle,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.34613,6.392235,A vue,Point d'eau,FAUX,84.18871307373047,Enna
+Orthoptères,Paratettix meridionalis,Tétrix méridional,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.346011,6.391666,A vue,Point d'eau,VRAI,84.7751693725586,Enna
+Coléoptères,Attagenus trifasciatus,Attagène à trois bandes,12,09/05/2021,5,05Mai,Var,Cannet-des-Maures,43.345572,6.389818,A vue,Astéracée,VRAI,86.2031021118164,Enna
+Hémiptères,Halyomorpha halys,Punaise diabolique,12,09/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.559784,6.177664,A vue,Appartement,VRAI,428.15155029296875,Enna
+Rhopalocères,Cupido osiris,Azuré de la chevrette,2,13/05/2021,5,05Mai,Var,Saint-Julien,43.700051,5.9353,A vue,Astéracée,VRAI,491.25494384765625,Enna
+Rhopalocères,Melitaea phoebe,Mélitée des Centaurées,2,13/05/2021,5,05Mai,Var,Saint-Julien,43.6651725,5.9420371,A vue,Thym,FAUX,490.4605712890625,Enna
+Hémiptères,Holcostethus sphacelatus,/,1,14/05/2021,5,05Mai,Var,Plan-d'Aups-Sainte-Baume,43.327538,5.771095,A vue,Pelouse,FAUX,944.68621826171875,Enna
+Coléoptères,Trichius gallicus,Trichie gauloise,1,15/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.564738,6.177214,A vue,Ciste,FAUX,417.25323486328125,Enna
+Hémiptères,Capsodes flavomarginatus,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335278,6.413609,A vue,Ciste,FAUX,110.99716186523437,Enna
+Hémiptères,Hadrodemus m-flavum,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335278,6.413609,A vue,Ciste,FAUX,110.99716186523437,Enna
+Orthoptères,Barbitistes fischeri,Barbitiste méridional,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335832,6.410229,A vue,Ciste,VRAI,105.4505386352539,Enna
+Coléoptères,Chrysanthia viridissima,Chrysanthie verte,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335793,6.408105,A vue,Ciste,VRAI,107.05299377441406,Enna
+Hémiptères,Orthezia urticae,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335793,6.408105,A vue,Lavande,VRAI,107.05299377441406,Enna
+Coléoptères,Stenurella nigra,Lepture noire,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.335426,6.406871,A vue,Ciste,VRAI,111.41252899169922,Enna
+Coléoptères,Valgus hemipterus,Cétoine punaise,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.33584,6.404468,A vue,Ciste,FAUX,108.70851135253906,Enna
+Hémiptères,Allygus modestus,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.33584,6.404468,A vue,Ciste,VRAI,108.70851135253906,Enna
+Coléoptères,Netocia morio,Cétoine noire,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.33663,6.394031,A vue,Ciste,FAUX,107.26164245605469,Enna
+Hétérocères,Arctia villica,Ecaille fermière,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.339564,6.392647,A vue,Fougère,FAUX,104.3277359008789,Enna
+Zygentomes,Machilinus rupestris,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.341757,6.391735,A vue,Au sol,VRAI,97.70172119140625,Enna
+Coléoptères,Exosoma lusitanicum,Lupérus portugais,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.341757,6.391735,A vue,Ciste,VRAI,97.70172119140625,Enna
+Coléoptères,Stictoleptura scutellata,Lepture écussonné,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.343622,6.391928,A vue,Bruyère,VRAI,90.85929870605469,Enna
+Coléoptères,Stenurella melanura,Lepture à suture noire,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.343622,6.391928,A vue,Ciste,FAUX,90.85929870605469,Enna
+Coléoptères,Cerocoma schaefferi,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.344517,6.401474,A vue,Ciste,FAUX,92.8572006225586,Enna
+Odonates,Anax  parthenope,Anax napolitain,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.344092,6.409051,A vue,Point d'eau,FAUX,91.74107360839844,Enna
+Hémiptères,Velia saulii,/,17,16/05/2021,5,05Mai,Var,Cannet-des-Maures,43.338638,6.40903,A vue,Point d'eau,VRAI,98.85376739501953,Enna
+Rhopalocères,Lysandra hispana,Bleu-nacré d'Espagne,4,17/05/2021,5,05Mai,Var,Aiguines,43.7913636,6.2353742,A vue,Chemin,FAUX,534.41900634765625,Enna
+Hétérocères,Zygaena loti,Zygène du Lotier,4,17/05/2021,5,05Mai,Var,Aiguines,43.7913636,6.2353742,A vue,Aphylante,VRAI,534.41900634765625,Enna
+Coléoptères,Scarabaeus laticollis,/,4,17/05/2021,5,05Mai,Var,Aiguines,43.790717,6.235082,A vue,Au sol,FAUX,530.55169677734375,Enna
+Rhopalocères,Iberochloe tagis,Marbré de Lusitanie,4,17/05/2021,5,05Mai,Var,Aiguines,43.744123,6.249439,A vue,Pelouse,VRAI,864.10931396484375,Enna
+Rhopalocères,Limenitis reducta,Sylvain azuré,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.6895052,5.868277,A vue,Chemin,FAUX,424.99322509765625,Enna
+Hétérocères,Arctia tigrina,Ecaille fasciée,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.688539,5.86369,A vue,Au sol,VRAI,443.5351257324219,Enna
+Diptères,Bombylius fimbriatus,/,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.689764,5.872311,A vue,Chemin,VRAI,428.3078308105469,Enna
+Hémiptères,Loxocnemis dentator,/,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.689764,5.872311,Fauchage,Pelouse,FAUX,428.3078308105469,Enna
+Coléoptères,Sphenoptera barbarica,/,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.681258,5.879382,A vue,Pelouse,VRAI,428.39752197265625,Enna
+Coléoptères,Oedemera podagrariae,Oedemère ochracée,7,18/05/2021,5,05Mai,Var,Ginasservis,43.686097,5.851146,A vue,Euphorbe,VRAI,381.3622741699219,Enna
+Coléoptères,Anthaxia salicis,Anthaxie du Saule,7,18/05/2021,5,05Mai,Var,Saint-Julien,43.689943,5.873677,A vue,Astéracée,VRAI,441.3887023925781,Enna
+Coléoptères,Trichodes leucopsideus,Clairon à épaulettes,2,19/05/2021,5,05Mai,Var,Saint-Julien,48.682028,5.907544,A vue,Euphorbe,VRAI,202.46600341796875,Enna
+Diptères,Anthrax anthrax,/,2,19/05/2021,5,05Mai,Var,Saint-Julien,43.680676,5.909823,A vue,Pelouse,FAUX,494.56597900390625,Enna
+Rhopalocères,Coenonympha arcania,Céphale,9,20/05/2021,5,05Mai,Var,La Verdière,43.680706,5.993415,A vue,Thym,FAUX,537.47113037109375,Enna
+Hétérocères,Pseudopanthera macularia,Panthère,9,20/05/2021,5,05Mai,Var,La Verdière,43.677223,5.99026,A vue,Pelouse,FAUX,541.3272705078125,Enna
+Coléoptères,Hispa atra,Hispe noir,9,20/05/2021,5,05Mai,Var,La Verdière,43.677223,5.99026,Fauchage,Pelouse,FAUX,541.3272705078125,Enna
+Hétérocères,Scopula decorata,Acidalie décorée,9,20/05/2021,5,05Mai,Var,La Verdière,43.669177,5.975867,A vue,Pelouse,FAUX,541.54693603515625,Enna
+Hémiptères,Horistus orientalis,/,9,20/05/2021,5,05Mai,Var,La Verdière,43.669177,5.975867,Fauchage,Pelouse,VRAI,541.54693603515625,Enna
+Hémiptères,Conostethus roseus,/,9,20/05/2021,5,05Mai,Var,La Verdière,43.669177,5.975867,Fauchage,Pelouse,VRAI,541.54693603515625,Enna
+Diptères,Usia atrata,/,9,20/05/2021,5,05Mai,Var,La Verdière,43.672365,5.974375,A vue,Lin,VRAI,516.64178466796875,Enna
+Hétérocères,Perconia strigillaria,Etrille,9,20/05/2021,5,05Mai,Var,Ginasservis,43.674146,5.868448,A vue,Chemin,VRAI,443.5567932128906,Enna
+Hémiptères,Calocoris nemoralis,Punaise décorée,9,20/05/2021,5,05Mai,Var,Ginasservis,43.675729,5.86927,Fauchage,Prairie,VRAI,434.3542785644531,Enna
+Coléoptères,Cryptocephalus infirmior,/,5,21/05/2021,5,05Mai,Var,Saint-Julien,43.70596,5.980192,A vue,Chêne,VRAI,567.130126953125,Enna
+Hétérocères,Heterogynis penella,Zygènule des Genêts,5,21/05/2021,5,05Mai,Var,Saint-Julien,43.70596,5.980192,A vue,Genêt,VRAI,567.130126953125,Enna
+Rhopalocères,Lasiommata maera,Némusien,5,21/05/2021,5,05Mai,Var,Saint-Julien,43.70275,5.976838,A vue,Rocheux,FAUX,554.50531005859375,Enna
+Coléoptères,Acmaeoderella flavofasciata,/,5,21/05/2021,5,05Mai,Var,La Verdière,43.645655,5.976301,A vue,Paquerette,VRAI,555.97845458984375,Enna
+Hémiptères,Calocoris roseomaculatus,/,5,21/05/2021,5,05Mai,Var,La Verdière,43.645655,5.976301,Fauchage,Chemin,VRAI,555.97845458984375,Enna
+Coléoptères,Chrysomela bankii,Chrysomèle de Banks,5,24/05/2021,5,05Mai,Bouches-du-Rhône,Saint-Antonin-sur-Bayon,43.519067,5.58575,A vue,Chardon,FAUX,428.32318115234375,Enna
+Coléoptères,Propylea quatuordecimpunctata,Ciccinelle à damier,5,24/05/2021,5,05Mai,Bouches-du-Rhône,Saint-Antonin-sur-Bayon,43.519067,5.58575,Fauchage,Prairie,FAUX,428.32318115234375,Enna
+Rhopalocères,Plebejus argus,Azuré de l'ajonc,5,24/05/2021,5,05Mai,Bouches-du-Rhône,Saint-Antonin-sur-Bayon,43.526711,5.568969,A vue,Prairie,FAUX,397.9312438964844,Enna
+Coléoptères,Anthaxia thalassophila,/,5,24/05/2021,5,05Mai,Bouches-du-Rhône,Saint-Antonin-sur-Bayon,43.51922,5.586289,Fauchage,Prairie,VRAI,430.0649719238281,Enna
+Diptères,Myopa dorsalis,/,5,24/05/2021,5,05Mai,Bouches-du-Rhône,Saint-Antonin-sur-Bayon,43.52357,5.584656,A vue,Ciste,VRAI,550.746337890625,Enna
+Hétérocères,Hemaris tityus,Sphinx-Bourdon,1,25/05/2021,5,05Mai,Var,Ginasservis,43.674546,5.870756,A vue,Aphyllante,VRAI,435.8861083984375,Enna
+Coléoptères,Acmaeodera degener,/,5,26/05/2021,5,05Mai,Bouches-du-Rhône,Jouques,43.589447,5.632246,A vue,Astéracée,VRAI,504.973876953125,Enna
+Hémiptères,Odontotarsus purpureolineatus,/,5,26/05/2021,5,05Mai,Bouches-du-Rhône,Jouques,43.587753,5.628603,Fauchage,Pelouse,FAUX,537.95733642578125,Enna
+Hémiptères,Cydnus aterrimus,/,5,26/05/2021,5,05Mai,Bouches-du-Rhône,Jouques,43.587753,5.628603,Fauchage,Pelouse,FAUX,537.95733642578125,Enna
+Coléoptères,Parexochomus nigromaculatus,/,5,26/05/2021,5,05Mai,Bouches-du-Rhône,Jouques,43.587753,5.628603,Fauchage,Pelouse,FAUX,537.95733642578125,Enna
+Coléoptères,Opsilia coerulescens,Aiguille de la vipérine,5,26/05/2021,5,05Mai,Bouches-du-Rhône,Jouques,43.589447,5.632246,A vue,NA,FAUX,504.973876953125,Enna
+Rhopalocères,Pieris brassicae,Piéride du chou,4,27/05/2021,5,05Mai,Var,Moustiers-Sainte-Marie,43.84503,6.230366,A vue,Pelouse,FAUX,943.09466552734375,Enna
+Rhopalocères,Melitaea celadussa,Mélitée de Fruhstorfer,4,27/05/2021,5,05Mai,Var,Moustiers-Sainte-Marie,43.84503,6.230366,A vue,Prairie,FAUX,943.09466552734375,Enna
+Phasmoptères,Pijnackeria masettii,Phasme ibère,4,27/05/2021,5,05Mai,Var,Moustiers-Sainte-Marie,43.84503,6.230366,A vue,Prairie,FAUX,943.09466552734375,Enna
+Arachnides,Heliophanus tribulosus,NA,4,27/05/2021,5,05Mai,Var,Quinson,43.702718,6.006642,Fauchage,Pelouse,FAUX,434.4194641113281,Enna
+Rhopalocères,Maniola jurtina,Myrtil,2,30/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.563599,6.176497,A vue,Chemin,FAUX,438.1510314941406,Enna
+Odonates,Pyrrhosoma nymphula,Petite nymphe au corps de feu,2,30/05/2021,5,05Mai,Var,Sillans-la-Cascade,43.564884,6.183227,A vue,Point d'eau,FAUX,364.6562194824219,Enna
+Rhopalocères,Argynnis paphia,Tabac d'Espagne,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,A vue,Chemin,FAUX,448.3695373535156,Enna
+Hétérocères,Zygaena filipendulae,Zygène de la filipendule,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,Fauchage,Prairie,FAUX,448.3695373535156,Enna
+Diptères,Fallenia fasciata,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,A vue,Chardon,VRAI,448.3695373535156,Enna
+Coléoptères,Agapanthia cardui,Agapanthe du chardon,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,A vue,Chardon,VRAI,448.3695373535156,Enna
+Diptères,Urophora solstitialis,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,Fauchage,Prairie,VRAI,448.3695373535156,Enna
+Coléoptères,Ptosima undecimmaculata,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.665454,5.887386,Fauchage,Pelouse,VRAI,448.1456604003906,Enna
+Coléoptères,Acmaeodera pilosellae,Acméodère de la Piloselle,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.66661,5.886077,Fauchage,Prairie,VRAI,450.72222900390625,Enna
+Hémiptères,Ventocoris rusticus,Pentatome de la nigelle,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.66623,5.886914,A vue,Euphorbe,VRAI,447.7899475097656,Enna
+Hémiptères,Centrocoris spiniger,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,Fauchage,Prairie,FAUX,448.3695373535156,Enna
+Hémiptères,Brachycarenus tigrinus,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,Fauchage,Prairie,VRAI,448.3695373535156,Enna
+Hémiptères,Brachycoleus triangularis,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.66623,5.886914,Fauchage,Prairie,VRAI,447.7899475097656,Enna
+Coléoptères,Rhinusa tetra,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.66623,5.886914,Fauchage,Prairie,VRAI,447.7899475097656,Enna
+Hémiptères,Deraeocoris ribauti,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.666237,5.875112,Fauchage,Prairie,VRAI,448.3695373535156,Enna
+Hémiptères,Sphedanolestes lividigaster,/,14,31/05/2021,5,05Mai,Var,Saint-Julien,43.66623,5.886914,Fauchage,Prairie,VRAI,447.7899475097656,Enna
+Hétérocères,Zygaena trifolii,Zygéne des prés,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.653744,5.908784,A vue,Chardon,FAUX,423.3417053222656,Enna
+Coléoptères,Oedemera flavipes,Oedémère à pattes jaunes,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.645029,5.846842,A vue,Astéracée,VRAI,339.0635070800781,Enna
+Coléoptères,Vadonia unipunctata,Vadonie à un point,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.653573,5.905823,A vue,Chardon,VRAI,426.08221435546875,Enna
+Coléoptères,Anthaxia hypomelaena,/,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.646884,5.848462,Fauchage,Prairie,VRAI,345.6350402832031,Enna
+Coléoptères,Anthaxia confusa,/,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.653829,5.904589,A vue,Astéracée,VRAI,429.3902893066406,Enna
+Hétérocères,Rhodostrophia calabra,Phalène calabraise,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.653699,5.89932,Fauchage,Prairie,VRAI,424.77593994140625,Enna
+Hémiptères,Aelia notata,/,7,01/06/2021,6,06Juin,Var,Saint-Julien,43.653699,5.89932,Fauchage,Prairie,VRAI,424.77593994140625,Enna
+Orthoptères,Tylopsis lilifolia,Phanéroptère liliacé,5,03/06/2021,6,06Juin,Var,Ginasservis,43.654102,5.871003,Fauchage,Pelouse,FAUX,431.5694580078125,Enna
+Mantoptères,Mantis religiosa,Mante religieuse,5,03/06/2021,6,06Juin,Var,Ginasservis,43.654102,5.871003,Fauchage,Pelouse,FAUX,431.5694580078125,Enna
+Coléoptères,Acmaeodera bipunctata,/,5,03/06/2021,6,06Juin,Var,Ginasservis,43.656664,5.862029,A vue,Astéracée,VRAI,379.0955810546875,Enna
+Coléoptères,Anthaxia fulgurans,/,5,03/06/2021,6,06Juin,Var,Ginasservis,43.642192,5.85931,A vue,Marguerite,VRAI,367.02923583984375,Enna
+Hyménoptères,Myrmilla capitata,/,5,03/06/2021,6,06Juin,Var,Ginasservis,43.643573,5.862015,A vue,Au sol,VRAI,386.41961669921875,Enna
+Hémiptères,Adelphocoris quadripunctatus,/,18,04/06/2021,6,06Juin,Var,Saint-Julien,43.678058,5.906679,Fauchage,Brassicacée,VRAI,478.0182189941406,Enna
+Coléoptères,Clytus rhamni,/,18,04/06/2021,6,06Juin,Var,Saint-Julien,43.677387,5.904091,A vue,Apiacée,FAUX,474.0664367675781,Enna
+Hémiptères,Stagonomus amoenus,/,18,04/06/2021,6,06Juin,Var,Saint-Julien,43.677543,5.906815,Fauchage,Prairie,FAUX,477.5291442871094,Enna
+Hétérocères,Eilema lurideola,Lithosie complanule,18,04/06/2021,6,06Juin,Var,Saint-Julien,43.677543,5.906815,Fauchage,Prairie,VRAI,477.5291442871094,Enna
+NA,pyrgus,NA,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085839,6.303054,NA,NA,FAUX,866.31304931640625,Enna
+Rhopalocères,Melitaea parthenoides,Mélitée des Scabieuses,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085839,6.303054,A vue,Prairie,FAUX,866.31304931640625,Enna
+Coléoptères,Diaperis boleti,Ténébrion des bouleaux,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085839,6.303054,A vue,Champignon,VRAI,866.31304931640625,Enna
+Hétérocères,Cilix glaucata,Petite Epine,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,VRAI,864.19671630859375,Enna
+Hétérocères,Sphinx pinastri,Sphinx du Pin,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,FAUX,864.19671630859375,Enna
+Hétérocères,Saturnia pyri,Grand paon de nuit,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,FAUX,864.19671630859375,Enna
+Hétérocères,Diacrisia sannio,Bordure ensanglantée,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,VRAI,864.19671630859375,Enna
+Hétérocères,Aphelia ferugana,/,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,VRAI,864.19671630859375,Enna
+Hétérocères,Deilephila porcellus,Petit Sphinx de la Vigne,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,FAUX,864.19671630859375,Enna
+Hétérocères,Calliteara pudibunda,Pudibonde,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,FAUX,864.19671630859375,Enna
+Hétérocères,Pheosia tremula,Porcelaine,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,VRAI,864.19671630859375,Enna
+Hétérocères,Dendrolimus pini,Bombyx du Pin,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,Chasse nocturne,Prairie,VRAI,864.19671630859375,Enna
+Hétérocères,Zygaena fausta,Zygène de la Petite coronille,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085711,6.30288,A vue,Prairie,FAUX,864.19671630859375,Enna
+Hétérocères,Diloba caeruleocephala,Double-Omega,18,04/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085464,6.307161,A vue,Prairie,VRAI,916.71746826171875,Enna
+Hétérocères,Ematurga atomaria,Phalène picotée,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.085464,6.307161,A vue,Astéracée,FAUX,916.71746826171875,Enna
+Raphidioptères,Raphidia ophiopsis,/,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.067536,6.319612,A vue,Chêne,VRAI,1166.2816162109375,Enna
+Hétérocères,Zygaena lonicerae,Zygène des bois,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.068458,6.321447,A vue,Trèfles,VRAI,1214.0179443359375,Enna
+Coléoptères,Rhagium inquisitor,Rhagie inquisitrice,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.06796,6.324472,A vue,Chemin,FAUX,1250.3580322265625,Enna
+Rhopalocères,Hamearis lucina,Lucine,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.06796,6.324472,A vue,Prairie,VRAI,1250.3580322265625,Enna
+Rhopalocères,Pieris napi,Piéride du navet,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.06796,6.324472,A vue,Prairie,FAUX,1250.3580322265625,Enna
+Rhopalocères,Cupido alcetas,Azuré de la Faucille,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.06796,6.324472,A vue,Prairie,FAUX,1250.3580322265625,Enna
+Rhopalocères,Lasiommata petropolitana,Gorgone,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.0671,6.32503,A vue,Cours d'eau,VRAI,1265.236328125,Enna
+Rhopalocères,Erebia triarius,Moiré printanier,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.066779,6.332925,A vue,Pelouse,VRAI,1613.8607177734375,Enna
+Rhopalocères,Parnassius mnemosyne,Semi-apollon,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.066819,6.332603,A vue,Pelouse,VRAI,1606.23046875,Enna
+Hétérocères,Aglia tau,Hachette,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.064229,6.329868,A vue,Chemin,FAUX,1532.0927734375,Enna
+Rhopalocères,Parnassius apollo,Apollon,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.066819,6.332603,A vue,Pelouse,VRAI,1606.23046875,Enna
+Coléoptères,Thanasimus formicarius,Clairon des fourmis,13,05/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.065437,6.324757,Fauchage,Prairie,FAUX,1298.84814453125,Enna
+Hétérocères,Hemaris fuciformis,Sphinx gazé,4,06/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.108775,6.227035,A vue,Prairie,VRAI,657.45623779296875,Enna
+Hétérocères,Zygaena transalpina,Zygène transalpine,4,06/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.108632,6.227059,A vue,Prairie,VRAI,655.38787841796875,Enna
+Hétérocères,Euproctis chrysorrhoea,Cul-brun,4,06/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.10863,6.226871,A vue,Prairie,FAUX,661.806396484375,Enna
+Hétérocères,Lymantria dispar,Bombyx disparate,4,06/06/2021,6,06Juin,Alpes-de-Haute-Provence,Digne-les-Bains,44.12118,6.223727,A vue,Rocheux,FAUX,722.3831787109375,Enna
+Hétérocères,Zygaena sarpedon,Zygène du panicaut,3,08/06/2021,6,06Juin,Var,Saint-Julien,43.679456,5.87688,A vue,Pelouse,FAUX,445.744140625,Enna
+Rhopalocères,Argynnis pandora,Cardinal,3,08/06/2021,6,06Juin,Var,Ginasservis,43.672934,5.879801,A vue,Chêne,VRAI,451.1732482910156,Enna
+Hétérocères,Synaphe bombycalis,Clédéobie bombyx,3,08/06/2021,6,06Juin,Var,Ginasservis,43.67288,5.875432,A vue,Au sol,VRAI,441.3641357421875,Enna
+Rhopalocères,Satyrium spini,Thècle des nerpruns,3,09/06/2021,6,06Juin,Var,Ginasservis,43.67229,5.874699,A vue,Badasse,FAUX,445.1732177734375,Enna
+Coléoptères,Actenodia billbergi,/,3,09/06/2021,6,06Juin,Var,Ginasservis,43.672574,5.874848,A vue,Rosacée,FAUX,442.97528076171875,Enna
+Coléoptères,Hycleus polymorphus,/,3,09/06/2021,6,06Juin,Var,Ginasservis,43.672574,5.874848,A vue,Astéracée,FAUX,442.97528076171875,Enna
+Rhopalocères,Thymelicus sylvestris,Hespérie de la Houque,19,10/06/2021,6,06Juin,Var,Artigues,43.561464,5.80037,A vue,Marrube,FAUX,544.05816650390625,Enna
+Rhopalocères,Carcharodus baeticus,Hespérie de la Ballotte,19,10/06/2021,6,06Juin,Var,Artigues,43.561464,5.80037,A vue,Marrube,VRAI,544.05816650390625,Enna
+Rhopalocères,Brenthis hecate,Nacré de la filipendule,19,10/06/2021,6,06Juin,Var,Artigues,43.561464,5.80037,A vue,Marrube,VRAI,544.05816650390625,Enna
+Rhopalocères,Satyrium ilicis,Thécla de l'Yeuse,19,10/06/2021,6,06Juin,Var,Artigues,43.561464,5.80037,A vue,Marrube,FAUX,544.05816650390625,Enna
+Hémiptères,Odontotarsus robustus,/,19,10/06/2021,6,06Juin,Var,Artigues,43.56192,5.800244,Fauchage,Prairie,VRAI,539.90203857421875,Enna
+Coléoptères,Stenopterus rufus,Sténoptère roux,19,10/06/2021,6,06Juin,Var,Artigues,43.561741,5.800831,A vue,Astéracée,VRAI,546.6358642578125,Enna
+Diptères,Tachina grossa,/,19,10/06/2021,6,06Juin,Var,Artigues,43.562684,5.803797,A vue,Apiacée,VRAI,567.398193359375,Enna
+Rhopalocères,Fabriciana niobe,Chiffre,19,10/06/2021,6,06Juin,Var,Artigues,43.562022,5.803104,A vue,Marrube,FAUX,560.6112060546875,Enna
+Hétérocères,Chamaesphecia empiformis,Sésie empiforme,19,10/06/2021,6,06Juin,Var,Artigues,43.563066,5.805063,A vue,Astéracée,VRAI,569.2940673828125,Enna
+Coléoptères,Agapanthia asphodeli,Agapanthie de l'Asphodèle,19,10/06/2021,6,06Juin,Var,Artigues,43.565856,5.811263,A vue,Asphodèle,VRAI,572.60699462890625,Enna
+Orthoptères,Ephippiger provincialis,Ephippiger de Provence,19,10/06/2021,6,06Juin,Var,Artigues,43.565856,5.811263,A vue,Asphodèle,VRAI,572.60699462890625,Enna
+Coléoptères,Hadroplontus trimaculatus,/,19,10/06/2021,6,06Juin,Var,Artigues,43.562047,5.803828,Fauchage,Prairie,VRAI,564.56036376953125,Enna
+Névroptères,Libelloides longicornis,Ascalaphe ambré,19,10/06/2021,6,06Juin,Var,Artigues,43.568511,5.821654,A vue,Prairie,VRAI,581.427001953125,Enna
+Coléoptères,Purpuricenus budensis,Purpuricène du Chêne vert,19,10/06/2021,6,06Juin,Var,Artigues,43.568814,5.820898,A vue,Apiacée,VRAI,579.15673828125,Enna
+Hémiptères,Graphosoma italicum,Punaise arlequin,19,10/06/2021,6,06Juin,Var,Artigues,43.566866,5.814348,A vue,Apiacée,FAUX,585.1138916015625,Enna
+Hémiptères,Graphosoma semipunctatum,/,19,10/06/2021,6,06Juin,Var,Artigues,43.566866,5.814348,Fauchage,Prairie,FAUX,585.1138916015625,Enna
+Coléoptères,Lucanus cervus,Lucane cerf-volant,19,10/06/2021,6,06Juin,Var,Artigues,43.56846,5.82086,A vue,Au sol,FAUX,584.36151123046875,Enna
+Orthoptères,Gryllotalpa vineae,Courtilière des vignes,19,10/06/2021,6,06Juin,Var,Fox-Amphoux,43.588627,6.161984,A l'ouïe,Prairie,VRAI,384.2220153808594,Enna
+Orthoptères,Mogoplistes brunneus,Grillon écailleux,19,10/06/2021,6,06Juin,Var,Fox-Amphoux,43.591725,6.16542,Grattage litière,Au sol,VRAI,397.92279052734375,Enna
+Hétérocères,Nemophora metallica,/,5,11/06/2021,6,06Juin,Var,Saint-Julien,43.677557,5.888538,A vue,Scabieuse,VRAI,441.2367858886719,Enna
+Coléoptères,Chlorophorus figuratus,/,5,11/06/2021,6,06Juin,Var,Ginasservis,43.656505,5.80885,Fauchage,Badasse,VRAI,465.7483215332031,Enna
+Coléoptères,Rutpela maculata,Lepture tachetée,5,11/06/2021,6,06Juin,Var,Ginasservis,43.656505,5.80885,A vue,Badasse,VRAI,465.7483215332031,Enna
+Coléoptères,Stictoleptura fulva,Lepture fauve,5,11/06/2021,6,06Juin,Var,Ginasservis,43.656505,5.80885,A vue,Badasse,FAUX,465.7483215332031,Enna
+Hémiptères,Centrotus cornutus,Demi-diable,5,11/06/2021,6,06Juin,Var,Ginasservis,43.655837,5.805857,A vue,Prairie,FAUX,443.8376770019531,Enna
+Rhopalocères,Pyronia bathseba,Tityre,1,13/06/2021,6,06Juin,Var,Sillans-la-Cascade,43.560356,6.177397,A vue,Chêne,VRAI,432.06317138671875,Enna
+Odonates,Onychogomphus uncatus,Gomphe à crochets,2,14/06/2021,6,06Juin,Var,Salernes,43.540447,6.287286,A vue,Chemin,FAUX,390.989501953125,Enna
+Rhopalocères,Melanargia galathea,Demi-deuil,2,14/06/2021,6,06Juin,Var,Villecroze,43.568817,6.258067,A vue,Prairie,FAUX,279.1038818359375,Enna
+Coléoptères,Trichodes apiarius,Clairon des abeilles,7,15/06/2021,6,06Juin,Var,Trigance,43.738895,6.426827,A vue,Plantain,FAUX,989.30621337890625,Enna
+Coléoptères,Clytra laeviuscula,Clytre des saules,7,15/06/2021,6,06Juin,Var,Trigance,43.738895,6.426827,A vue,Poacée,VRAI,989.30621337890625,Enna
+Coléoptères,Clytus arietis,Clyte bélier,7,15/06/2021,6,06Juin,Var,Trigance,43.735023,6.4402,A vue,Ombellifère,FAUX,982.57952880859375,Enna
+Diptères,Philipomyia aprica,/,7,15/06/2021,6,06Juin,Var,Trigance,43.735023,6.4402,A vue,Ombellifère,VRAI,982.57952880859375,Enna
+Diptères,Lasiopa tsacasi,/,7,15/06/2021,6,06Juin,Var,Trigance,43.735023,6.4402,A vue,Ombellifère,VRAI,982.57952880859375,Enna
+Orthoptères,Omocestus viridulus,Criquet verdelet,7,15/06/2021,6,06Juin,Var,Trigance,43.758348,6.444324,A vue,Prairie,FAUX,752.64617919921875,Enna
+Arachnides,Saitis barbipes,/,7,15/06/2021,6,06Juin,Var,Sillans-la-Cascade,43.560356,6.177397,A vue,Appartement,FAUX,432.06317138671875,Enna
+Rhopalocères,Polyommatus dorylas,Azuré du mélilot,4,16/06/2021,6,06Juin,Var,Aiguines,43.75956,6.269481,A vue,Pelouse,FAUX,1395.9849853515625,Enna
+Hémiptères,Haematoloma dorsata,/,4,16/06/2021,6,06Juin,Var,Aiguines,43.760955,6.273408,A vue,Genévrier,VRAI,1440.43603515625,Enna
+Hétérocères,Malacosoma castrensis,Livrée des prés,4,16/06/2021,6,06Juin,Var,Aiguines,43.760629,6.268483,A vue,Prairie,VRAI,1381.9200439453125,Enna
+Hémiptères,Melanocoryphus albomaculatus,/,4,16/06/2021,6,06Juin,Var,Aiguines,43.761001,6.268462,A vue,Prairie,VRAI,1375.7694091796875,Enna
+Hétérocères,Hyles euphorbiae,Sphinx de l'Euphorbe,1,17/06/2021,6,06Juin,Var,Aups,43.58771,6.182916,A vue,Euphorbe,FAUX,458.5372619628906,Enna
+Hémiptères,Tibicina garricola,Cigale des garrigues,4,18/06/2021,6,06Juin,Var,Tourtour,43.604248,6.290392,A l'ouïe,Genêt,VRAI,666.3736572265625,Enna
+Coléoptères,Stictoleptura cordigera,Lepture porte-cœur,4,18/06/2021,6,06Juin,Gard,Marguerittes,43.882583,4.4324,A vue,Prairie,VRAI,120.96507263183594,Enna
+Névroptères,Palpares libelluloides,Grand fourmilion,4,18/06/2021,6,06Juin,Gard,Marguerittes,43.882708,4.432668,A vue,Prairie,VRAI,121.7722396850586,Enna
+Orthoptères,Chorthippus vagans,Criquet des pins,4,18/06/2021,6,06Juin,Gard,Marguerittes,43.882583,4.4324,A vue,Prairie,FAUX,120.96507263183594,Enna
+Hétérocères,Zygaena erythrus,Zygène des garrigues,9,19/06/2021,6,06Juin,Gard,Marguerittes,43.882708,4.432668,A vue,Prairie,VRAI,121.7722396850586,Enna
+Rhopalocères,Melanargia lachesis,Echiquier ibérique,9,19/06/2021,6,06Juin,Gard,Marguerittes,43.882583,4.4324,A vue,Prairie,VRAI,120.96507263183594,Enna
+Rhopalocères,Brintesia circe,Silène,9,19/06/2021,6,06Juin,Gard,Marguerittes,43.882583,4.4324,A vue,Prairie,FAUX,120.96507263183594,Enna
+Rhopalocères,Coenonympha dorus,Fadet des garrigues,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.931639,4.341778,A vue,Prairie,VRAI,169.715087890625,Enna
+Rhopalocères,Satyrium esculi,Thécla du Kermès,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.927629,4.337932,A vue,Prairie,VRAI,153.6591033935547,Enna
+Rhopalocères,Charaxes jasius,Pacha à deux queues,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.931897,4.341703,A vue,Chemin,FAUX,168.4258575439453,Enna
+Coléoptères,Netocia oblonga,Cétoine oblongue,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.935622,4.340344,A vue,Chardon,FAUX,142.83680725097656,Enna
+Coléoptères,Mylabris quadripunctata,Mylabre à quatre points,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.935491,4.340539,A vue,Scabieuse,FAUX,144.37994384765625,Enna
+Coléoptères,Mylabris variabilis,Mylabre inconstant,9,19/06/2021,6,06Juin,Gard,Sainte-Anastasie,43.935491,4.340539,A vue,Scabieuse,FAUX,144.37994384765625,Enna
+Rhopalocères,Brenthis daphne,Nacré de la ronce,5,21/06/2021,6,06Juin,Var,Artignosc-sur-Verdon,43.706927,6.112948,A vue,Lisière,FAUX,509.6435852050781,Enna
+Orthoptères,Platycleis albopunctata,Decticelle chagrinnée,5,21/06/2021,6,06Juin,Var,Artignosc-sur-Verdon,43.708238,6.11371,A vue,Au sol,FAUX,529.0709228515625,Enna
+Coléoptères,Chlorophorus trifasciatus,/,5,21/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.71367,6.120626,A vue,Apiacée,VRAI,526.4854736328125,Enna
+Diptères,Urophora jaceana,/,5,21/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.718073,6.1397,A vue,Apiacée,VRAI,669.4501953125,Enna
+Coléoptères,Stenurella bifasciata,/,5,21/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.718073,6.1397,A vue,Apiacée,VRAI,669.4501953125,Enna
+Rhopalocères,Thymelicus acteon,Hespérie du chiendent,13,22/06/2021,6,06Juin,Var,Régusse,43.679259,6.159928,A vue,Prairie,FAUX,609.8094482421875,Enna
+Rhopalocères,Polyommatus escheri,Azuré d'Escher,13,22/06/2021,6,06Juin,Var,Régusse,43.685934,6.167863,A vue,Chemin,VRAI,660.9166259765625,Enna
+Coléoptères,Ruptela maculata,Lepture tachetée,13,22/06/2021,6,06Juin,Var,Régusse,43.685934,6.167863,A vue,Astéracée,FAUX,660.9166259765625,Enna
+Odonates,Orthetrum brunneum,Orthétrum brun,13,22/06/2021,6,06Juin,Var,Régusse,43.686261,6.168526,A vue,Chemin,FAUX,663.2542724609375,Enna
+Orthoptères,Omocestus raymondi,Criquet des garrigues,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.568289,6.093924,A vue,Au sol,FAUX,483.8240051269531,Enna
+Hémiptères,Tettigometra laeta,/,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.568289,6.093924,Fauchage,Garrigue,VRAI,483.8240051269531,Enna
+Hémiptères,Stenotus binotatus,/,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.685934,6.167863,Fauchage,Garrigue,VRAI,660.9166259765625,Enna
+Blattoptères,Loboptera decipiens,/,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.565586,6.101842,A vue,Sous caillou,VRAI,453.5966796875,Enna
+Orthoptères,Oedaleus decorus,Oedipode soufrée,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.582141,6.101504,A vue,Au sol,FAUX,462.03143310546875,Enna
+Hémiptères,Psacasta tuberculata,/,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.582141,6.101504,A vue,Vipérine,VRAI,462.03143310546875,Enna
+Odonates,Gomphus simillimus,Gomphe semblable,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.581224,6.1040469999999996,A vue,Garrigue,VRAI,475.0970458984375,Enna
+Orthoptères,Euchorthippus elegantulus,Criquet blafard,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.567302,6.096156,Fauchage,Prairie,FAUX,474.5763244628906,Enna
+Orthoptères,Oedipoda germanica,Oedipode rouge,13,22/06/2021,6,06Juin,Var,Fox-Amphoux,43.56519,6.101606,A vue,Au sol,FAUX,452.5913391113281,Enna
+Rhopalocères,Hipparchia semele,Agreste,8,23/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.70852,6.153896,A vue,Au sol,FAUX,702.35284423828125,Enna
+Hétérocères,Cynaeda dentalis,Odontie dentelée,8,23/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.704614,6.151782,A vue,Pelouse,VRAI,666.08154296875,Enna
+Hémiptères,Dictyophara europaea,Fulgore d'​Europe,8,23/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.728405,6.115744,Fauchage,Pelouse,VRAI,554.4345703125,Enna
+Hémiptères,Adelphocoris vandalicus,/,8,23/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.728405,6.115744,Fauchage,Pelouse,VRAI,554.4345703125,Enna
+Hétérocères,Ethmia bipunctella,/,8,23/06/2021,6,06Juin,Var,Bauduen,43.690683,6.22065,Fauchage,Vipérine,VRAI,672.987548828125,Enna
+Hémiptères,Dictyla echii,/,8,23/06/2021,6,06Juin,Var,Bauduen,43.690683,6.22065,Fauchage,Vipérine,FAUX,672.987548828125,Enna
+Coléoptères,Mogulones geographicus,Charançon géographe,8,23/06/2021,6,06Juin,Var,Bauduen,43.690683,6.22065,Fauchage,Vipérine,VRAI,672.987548828125,Enna
+Coléoptères,Divales bipustulatus,/,8,23/06/2021,6,06Juin,Var,Baudinard-sur-Verdon,43.728405,6.115744,A vue,Astéracée,FAUX,554.4345703125,Enna
+Odonates,Gomphus pulchellus,Gomphe gentil,9,24/06/2021,6,06Juin,Var,Bargème,43.736645,6.598197,A vue,Chemin,FAUX,1047.70849609375,Enna
+Hémiptères,Aelia acuminata,/,9,24/06/2021,6,06Juin,Var,Bargème,43.722751,6.603146,A vue,Prairie,FAUX,939.24163818359375,Enna
+Odonates,Orthetrum cancellatum,Orthétrum réticulé,9,24/06/2021,6,06Juin,Var,Bargème,43.720725,6.586546,A vue,Prairie,FAUX,910.79296875,Enna
+Odonates,Ceriagrion tennelum,Agrion délicat,9,24/06/2021,6,06Juin,Var,Bargème,43.720645,6.586703,A vue,Point d'eau,FAUX,910.47381591796875,Enna
+Diptères,Ectophasia leucoptera,/,9,24/06/2021,6,06Juin,Var,Bargème,43.716166,6.53045,A vue,Astéracée,VRAI,822.80389404296875,Enna
+Diptères,Ectophasia crassipennis,/,9,24/06/2021,6,06Juin,Var,Bargème,43.716166,6.53045,A vue,Astéracée,FAUX,822.80389404296875,Enna
+Hémiptères,Carpocoris pudicus,/,9,24/06/2021,6,06Juin,Var,Bargème,43.716166,6.53045,Fauchage,Prairie,VRAI,822.80389404296875,Enna
+Hémiptères,Macrotylus herrichi,/,9,24/06/2021,6,06Juin,Var,Bargème,43.716166,6.53045,A vue,Sauge,VRAI,822.80389404296875,Enna
+Odonates,Calopteryx virgo,Caloptéryx vierge,9,24/06/2021,6,06Juin,Var,Bargème,43.715631,6.520499,A vue,Point d'eau,FAUX,817.5753173828125,Enna
+Odonates,Platycnemis latipes,Agrion blanchâtre,1,25/06/2021,6,06Juin,Var,Vins-sur-Caramy,43.430572,6.124867,A vue,Ripisylve,FAUX,197.84939575195312,Enna
+Hétérocères,Zygaena carniolica,Zygène du Sainfoin,2,26/06/2021,6,06Juin,Var,Saint-Jurs,43.90159,6.250999,Fauchage,Pelouse,VRAI,1607.9697265625,Enna
+Rhopalocères,Erebia meolans,Moiré des Fétuques,2,26/06/2021,6,06Juin,Var,Saint-Jurs,43.901281,6.252651,A vue,Prairie,FAUX,1635.84423828125,Enna
+Orthoptères,Tessellana tessellata,Decticelle carroyée,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386474,6.361235,A vue,Prairie,FAUX,100.73523712158203,Enna
+Hémiptères,Cicada orni,Cigale grise,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386694,6.361017,A l'ouïe,Arbuste,FAUX,99.96488952636719,Enna
+Hémiptères,Cicadatra atra,Cigale noire,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386694,6.361017,A l'ouïe,Arbuste,VRAI,99.96488952636719,Enna
+Odonates,Crocothemis erythraea,Crocothemis ecarlate,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.387188,6.360816,A vue,Point d'eau,FAUX,97.64695739746094,Enna
+Odonates,Onychogomphus forcipatus,Gomphe à pinces,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.387188,6.360816,A vue,Point d'eau,FAUX,97.64695739746094,Enna
+Orthoptères,Dociostaurus maroccanus,Criquet marocain,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386144,6.361103,A vue,Prairie,VRAI,102.8001708984375,Enna
+Hyménoptères,Megascolia maculata,Scolie des jardins,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.387099,6.361028,A vue,Prairie,VRAI,97.71625518798828,Enna
+Arachnides,Argiope bruennichi,Argiope frelon,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386978,6.362197,A vue,Zone humide,FAUX,97.41923522949219,Enna
+Odonates,Trithemis annulata,Trithémis annelé,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.387703,6.361736,A vue,Point d'eau,FAUX,98.085052490234375,Enna
+Odonates,Sympetrum fonscolombii,Sympétrum de fonscolombe,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.387188,6.360816,A vue,Point d'eau,FAUX,97.64695739746094,Enna
+Névroptères,Deleproctophylla dusmeti,/,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386569,6.361446,A vue,Pelouse,VRAI,99.24117279052734,Enna
+Névroptères,Macronemurus appendiculatus,/,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386569,6.361446,A vue,Pelouse,VRAI,99.24117279052734,Enna
+Odonates,Lestes virens,Leste verdoyant,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.383789,6.366499,A vue,Point d'eau,FAUX,95.00150299072266,Enna
+Orthoptères,Decticus albifrons,Dectique à front blanc,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.386128,6.36246,A vue,Prairie,FAUX,98.23682403564453,Enna
+Orthoptères,Calliptamus wattenwylianus,Caloptène occitan,17,27/06/2021,6,06Juin,Var,Cannet-des-Maures,43.38287,6.366484,A vue,Au sol,FAUX,96.763153076171875,Enna
+Odonates,Calopteryx haemorrhoidalis,Calopteryx haemorroidalis,17,27/06/2021,6,06Juin,Var,Seillons-Source-d'Argens,43.503871,5.907238,A vue,Cours d'eau,FAUX,280.09735107421875,Enna
+Odonates,Cordulegaster boltonii,Cordulégastre annelé,17,27/06/2021,6,06Juin,Var,Seillons-Source-d'Argens,43.503871,5.907238,A vue,Cours d'eau,FAUX,280.09735107421875,Enna
+Rhopalocères,Thymelicus lineola,Hespérie du Dactyle,3,28/06/2021,6,06Juin,Var,La Roque-Esclapon,43.736192,6.664798,A vue,Pelouse,FAUX,1228.36474609375,Enna
+Hémiptères,Psacasta exanthematica,/,3,28/06/2021,6,06Juin,Var,La Roque-Esclapon,43.737121,6.675292,Fauchage,Vipérine,VRAI,1284.365478515625,Enna
+Hétérocères,Dysgonia algira,Passagère,3,28/06/2021,6,06Juin,Var,La Roque-Esclapon,43.736192,6.664798,A vue,Pelouse,FAUX,1228.36474609375,Enna
+Hétérocères,Pachythelia villosella,/,1,29/06/2021,6,06Juin,Var,Comps-sur-Artuby,43.717053,6.51336,A vue,Genêt,VRAI,829.76251220703125,Enna
+Hémiptères,Lyristes plebejus,Cigale plébéienne,1,30/06/2021,6,06Juin,Var,La Verdière,43.664371,5.955779,A vue,Garrigue,VRAI,510.6357116699219,Enna
+Hémiptères,Eurygaster hotentotta,/,2,01/07/2021,7,07Juillet,Var,Ginasservis,43.676069,5.840231,Fauchage,Prairie,VRAI,405.0984802246094,Enna
+Hétérocères,Zygaena occitanica,Zygène d'Occitanie,2,01/07/2021,7,07Juillet,Var,Ginasservis,43.676069,5.840231,Fauchage,Prairie,VRAI,405.0984802246094,Enna
+Dermaptères,Anechura bipunctata,/,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1407684,6.683225,Fauchage,Prairie,FAUX,1939.5135498046875,Enna
+Rhopalocères,Agriades glandon,Azuré des Soldanelles,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1406633,6.68327667,A vue,Sur crotte,FAUX,1939.651123046875,Enna
+Rhopalocères,Erebia alberganus,Moiré lancéolé,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.140714,6.683699,A vue,Pelouse,FAUX,1941.1011962890625,Enna
+Arachnides,Aculepeira ceropegia,Épeire feuille de chêne,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.142554,6.68342,Fauchage,Prairie,FAUX,1936.8843994140625,Enna
+Rhopalocères,Lycaena hippothoe,Cuivré écarlate,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1431267,6.6834267,A vue,Prairie,VRAI,1937.1024169921875,Enna
+Rhopalocères,Phengaris arion,Azuré du Serpolet,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1431267,6.6834267,A vue,Prairie,FAUX,1937.1024169921875,Enna
+Rhopalocères,Lycaena tityrus,Cuivré fuligineux,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1431267,6.6834267,A vue,Prairie,FAUX,1937.1024169921875,Enna
+Rhopalocères,Pieris bryoniae,Piéride de la Bryone,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.14339,6.683222333,A vue,Prairie,VRAI,1937.1221923828125,Enna
+Orthoptères,Stauroderus scalaris,Stauroderus scalaris,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.14307,6.684611,A l'ouïe,Prairie,FAUX,1954.3836669921875,Enna
+Rhopalocères,Aglais io,Paon du jour,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1431167,6.68494333,A vue,Prairie,FAUX,1965.897216796875,Enna
+Rhopalocères,Melitaea diamina,Mélitée noirâtre,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.143055,6.683871,A vue,Prairie,FAUX,1941.2529296875,Enna
+Rhopalocères,Pyrgus carthami,Hespérie du Carthame,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.143355,6.683656,A vue,Prairie,VRAI,1941.046142578125,Enna
+Rhopalocères,Eumedonia eumedon,Argus de le Sanguinaire,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1882383,6.65749833,A vue,Lisière,VRAI,1711.7042236328125,Enna
+Coléoptères,Monochamus sutor,Monochame cordonnier,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.140714,6.683699,A vue,Pelouse,VRAI,1941.1011962890625,Enna
+Coléoptères,Brachyta interrogationis,/,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.14307,6.684611,A vue,Prairie,VRAI,1954.3836669921875,Enna
+Coléoptères,Potosia cuprea,Cétoine cuivré,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.143355,6.683656,Fauchage,Prairie,FAUX,1941.046142578125,Enna
+Plécoptères,Perla grandis,/,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.140714,6.683699,A vue,Cours d'eau,VRAI,1941.1011962890625,Enna
+Coléoptères,Carilia virginea,/,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.15653,6.656681667,A vue,Apiacée,VRAI,1649.0345458984375,Enna
+Coléoptères,Phytoecia affinis,Lepture aux yeux de paon,19,02/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.15653,6.656681667,A vue,Apiacée,VRAI,1649.0345458984375,Enna
+Hétérocères,Anthophila fabriciana,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.18970833,6.660436667,A vue,Astéracée,VRAI,1711.61279296875,Enna
+Arachnides,Araniella alpica,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.18970833,6.660436667,A vue,Apiacée,FAUX,1711.61279296875,Enna
+Hétérocères,Nemophora ochsenheimerella,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.18970833,6.660436667,A vue,Apiacée,VRAI,1711.61279296875,Enna
+Coléoptères,Molorchus minor,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.190293,6.661617,A vue,Apiacée,VRAI,1713.7174072265625,Enna
+Coléoptères,Obrium brunneum,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.190293,6.661617,A vue,Apiacée,VRAI,1713.7174072265625,Enna
+Hétérocères,Catastia marginea,Diosie bordée,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.191201,6.664396,A vue,Prairie,FAUX,1716.0592041015625,Enna
+Rhopalocères,Boloria titania,Nacré porphyrin,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.191201,6.664396,A vue,Prairie,FAUX,1716.0592041015625,Enna
+Rhopalocères,Coenonympha glycerion,Fadet de la Mélique,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.191201,6.664396,A vue,Prairie,FAUX,1716.0592041015625,Enna
+Rhopalocères,Erebia euryale,Moiré frange-pie,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.188047,6.655534,A vue,Chemin,FAUX,1704.060791015625,Enna
+Coléoptères,Dinoptera collaris,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.18488167,6.665431667,A vue,Apiacée,VRAI,1861.487548828125,Enna
+Coléoptères,Stictoleptura hybrida,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.18488167,6.665431667,A vue,Apiacée,VRAI,1861.487548828125,Enna
+Hémiptères,Sternodontus obtusus,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.182025,6.67255833,A vue,Apiacée,VRAI,1941.368896484375,Enna
+Rhopalocères,Phengaris alcon,Azuré de la Croisette,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.187508,6.652755,A vue,Prairie,FAUX,1680.3505859375,Enna
+Coléoptères,Hoplia argentea,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.183025,6.67244,A vue,Apiacée,VRAI,1914.600830078125,Enna
+Diptères,Sphiximorpha subsessilis,/,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.181115,6.627622,A vue,Tronc,VRAI,1246.718017578125,Enna
+Hétérocères,Arctia plantaginis,Ecaille du Plantain,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1870167,6.65206167,A vue,Prairie,VRAI,1685.5540771484375,Enna
+Hétérocères,Lasionycta imbecilla,Mythimne imbécile,17,03/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.187475,6.65287,A vue,Prairie,VRAI,1681.329833984375,Enna
+Odonates,Aeshna juncea,Aeschne des joncs,3,04/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Colmars-les-Alpes,44.1684467,6.62715667,A vue,Point d'eau,VRAI,1544.956787109375,Enna
+Rhopalocères,Papilio alexanor,Alexanor,3,04/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Thorame-Haute,44.079362,6.569525,A vue,Rocheux,VRAI,1098.87744140625,Enna
+Hyménoptères,Celonites abbreviatus,/,3,04/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Thorame-Haute,44.079362,6.569525,A vue,Poacée,VRAI,1098.87744140625,Enna
+Hétérocères,Pterostoma palpina,Museau,2,05/07/2021,7,07Juillet,Hautes-Alpes,Saint-Clément-sur-Durance,44.652815,6.570114,Battage,Peuplier,VRAI,1106.67529296875,Enna
+Orthoptères,Platycleis affinis,Decticelle côtière,2,05/07/2021,7,07Juillet,Var,Ginasservis,43.673154,5.875944,A vue,Prairie,VRAI,441.50067138671875,Enna
+Orthoptères,Calliptamus italicus,Caloptène italien,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.408323,5.483452,A vue,Garrigue,FAUX,580.67291259765625,Enna
+Orthoptères,Calliptamus barbarus,Caloptène ochracé,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.408323,5.483452,A vue,Garrigue,FAUX,580.67291259765625,Enna
+Orthoptères,Ramburiella hispanica,Criquet des Ibères,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.406633,5.48623,A vue,Garrigue,FAUX,572.1171875,Enna
+Orthoptères,Euchorthippus chopardi,Criquet du Bragalou,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.406633,5.48623,A vue,Prairie,FAUX,572.1171875,Enna
+Rhopalocères,Satyrus actaea,Petite Coronide,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.404093,5.488735,A vue,Pelouse,FAUX,595.2528076171875,Enna
+Orthoptères,Chorthippus brunneus,Criquet duettiste,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.388907,5.492976,A vue,Prairie,FAUX,342.7275390625,Enna
+Orthoptères,Omocestus rufipes,Criquet noir-ébène,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.388907,5.492976,A vue,Prairie,FAUX,342.7275390625,Enna
+Rhopalocères,Pyronia cecilia,Ocellé de le Canche,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.388572,5.493095,A vue,Prairie,FAUX,341.77545166015625,Enna
+Arachnides,Argiope lobata,Argiope lobée,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.38892,5.49866,A vue,Garrigue,FAUX,376.1977233886719,Enna
+Orthoptères,Sphingonotus caerulans,Oedipode aigue-marine,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.393541,5.505768,A vue,Pelouse,FAUX,503.0233154296875,Enna
+Orthoptères,Platycleis intermedia,Decticelle intermédiaire,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.395618,5.506479,A vue,Garrigue,FAUX,495.1203918457031,Enna
+Orthoptères,Arachnocephalus vestitus,Grillon des Cistes,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.387267,5.488435,A vue,Ciste,FAUX,328.54217529296875,Enna
+Orthoptères,Oedipoda caerulescens,Oedipode turquoise,13,06/07/2021,7,07Juillet,Bouches-du-Rhône,Mimet,43.380827,5.484302,A vue,Pelouse,FAUX,339.9073486328125,Enna
+Rhopalocères,Satyrus ferula,Grande Coronide,3,07/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Moustiers-Sainte-Marie,43.844336,6.237939,A vue,Pelouse,FAUX,922.270263671875,Enna
+Rhopalocères,Fabriciana adippe,Moyen Nacré,3,07/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Moustiers-Sainte-Marie,43.843782,6.2323,A vue,Prairie,FAUX,897.71142578125,Enna
+Hétérocères,Zygaena hilaris,Zygène de la Bugrane,3,07/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Moustiers-Sainte-Marie,43.846234,6.242783,A vue,Pelouse,FAUX,957.2099609375,Enna
+Orthoptères,Celes variabilis,Oedipode caussenarde,2,09/07/2021,7,07Juillet,Lozère,Saint-Pierre-des-Tripiers,44.213302,3.276515,A vue,Pelouse,VRAI,883.19757080078125,Enna
+Orthoptères,Stenobothrus lineatus,Sténobothre ligné,2,09/07/2021,7,07Juillet,Lozère,Saint-Pierre-des-Tripiers,44.213302,3.276515,A vue,Pelouse,FAUX,883.19757080078125,Enna
+Orthoptères,Stenobothrus nigromaculatus,Sténobothre bourdonneur,11,10/07/2021,7,07Juillet,Lozère,Hures-la-Parade,44.212341,3.3306,A vue,Pelouse,FAUX,959.40570068359375,Enna
+Orthoptères,Oecanthus pellucens,Grillon d'Italie,11,10/07/2021,7,07Juillet,Lozère,Hures-la-Parade,44.212341,3.3306,A vue,Pelouse,FAUX,959.40570068359375,Enna
+Odonates,Lestes barbarus,Leste barbare,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Odonates,Anax imperator,Anax empereur,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Odonates,Lestes dryas,Leste dryade,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Odonates,Sympetrum sanguineum,Sympétrum sanguin,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Rhopalocères,Aphantopus hyperantus,Tristan,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Orthoptères,Tetrix ceperoi,Tétrix des vasières,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Odonates,Enallagma cyathigerum,Agrion porte-coupe,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Rhopalocères,Speyeria aglaja,Grand nacré,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Odonates,Libellula depressa,Libellule déprimé,11,10/07/2021,7,07Juillet,Aveyron,Veyreau,44.179263,3.367419,A vue,Point d'eau,FAUX,918.54803466796875,Enna
+Orthoptères,Arcyptera microptera carpentieri,Arcyptère caussignard,2,11/07/2021,7,07Juillet,Lozère,Hures-la-Parade,44.231254,3.383063,A vue,Pelouse,VRAI,964.64373779296875,Enna
+Orthoptères,Euchorthippus declivus,Criquet des Bromes,2,11/07/2021,7,07Juillet,Lozère,Saint-Pierre-des-Tripiers,44.209703,3.281298,Fauchage,Prairie,FAUX,864.89990234375,Enna
+Orthoptères,Myrmeleotettix maculatus,Gomphocère tacheté,1,16/07/2021,7,07Juillet,Lozère,Saint-Pierre-des-Tripiers,44.217629,3.274319,A vue,Pelouse,VRAI,900.44085693359375,Enna
+Rhopalocères,Polyommatus dolus,Sablé de la Luzerne,5,17/07/2021,7,07Juillet,Lozère,Mas-Saint-Chély,44.315448,3.393762,A vue,Pelouse,VRAI,970.5968017578125,Enna
+Rhopalocères,Polyommatus damon,Polyommatus dolus,5,17/07/2021,7,07Juillet,Lozère,Mas-Saint-Chély,44.315009,3.39377,A vue,Prairie,FAUX,966.80718994140625,Enna
+Rhopalocères,Polyommatus amandus,Azuré de la Jarosse,5,17/07/2021,7,07Juillet,Lozère,Mas-Saint-Chély,44.31407,3.393021,A vue,Lisière,VRAI,957.54119873046875,Enna
+Orthoptères,Bicolorana bicolor,Decticelle bicolore,5,17/07/2021,7,07Juillet,Lozère,Mas-Saint-Chély,44.314357,3.393378,A l'ouïe,Prairie,VRAI,961.97802734375,Enna
+Arachnides,Aculepeira armida,Epeire armide,5,17/07/2021,7,07Juillet,Lozère,Mas-Saint-Chély,44.314357,3.393378,A vue,Prairie,VRAI,961.97802734375,Enna
+Arachnides,Lycosa tarantula,Lycose de Narbonne,1,18/07/2021,7,07Juillet,Lozère,Saint-Pierre-des-Tripiers,44.222238,3.271808,A vue,Au sol,VRAI,936.62774658203125,Enna
+Hétérocères,Zygaena ephialtes,Zygène de la Coronille,2,19/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Vaumeilh,44.291977,5.989568,A vue,Buddleia,VRAI,766.7833251953125,Enna
+Rhopalocères,Pyronia tithonus,Amaryllis,2,19/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Vaumeilh,44.291977,5.989568,A vue,Buddleia,FAUX,766.7833251953125,Enna
+Rhopalocères,Ochlodes sylvanus,Sylvaine,1,20/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Vaumeilh,44.291977,5.989568,A vue,Buddleia,FAUX,766.7833251953125,Enna
+Orthoptères,Euthystira brachyptera,Criquet des Genévriers,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.115178,5.833301,A vue,Genévrier,FAUX,1584.5389404296875,Enna
+Orthoptères,Podisma amedegnatoae,Miramelle du Ventoux,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Étienne-les-Orgues,44.120548,5.801224,A vue,Rocheux,VRAI,1750.9951171875,Enna
+Orthoptères,Omocestus petraeus,Criquet des rocailles,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Étienne-les-Orgues,44.122164,5.801586,A vue,Rocheux,VRAI,1787.3623046875,Enna
+Orthoptères,Anonconotus ghiliani,Analote noirâtre,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Étienne-les-Orgues,44.123281,5.798453,A vue,Pelouse,VRAI,1801.975341796875,Enna
+Orthoptères,Arcyptera fusca,Arcyptère bariolée,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Étienne-les-Orgues,44.115943,5.787486,A vue,Prairie,FAUX,1667.904296875,Enna
+Hétérocères,Pyrausta aurata,Pyrauste de la Menthe,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Étienne-les-Orgues,44.089835,5.792979,A vue,Scabieuse,VRAI,1240.1739501953125,Enna
+Diptères,Volucella pellucens,Volucelle transparente,7,22/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.11524,5.833231,A vue,Scabieuse,VRAI,1583.9677734375,Enna
+Coléoptères,Oryctes nasicornis,Scarabé rhinocéros,1,23/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.197353,5.942696,A vue,Ville,VRAI,516.60772705078125,Enna
+Hétérocères,Odezia atrata,Ramoneur,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.719088,6.903179,A vue,Prairie,VRAI,2024.2353515625,Enna
+Rhopalocères,Pyrgus carlinae,Hespérie de la Carline,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.719088,6.903179,A vue,Prairie,VRAI,2024.2353515625,Enna
+Rhopalocères,Aricia nicias,Azuré des Géraniums,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.719088,6.903179,A vue,Prairie,VRAI,2024.2353515625,Enna
+Coléoptères,Selatosomus amplicollis,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.719088,6.903179,A vue,Prairie,FAUX,2024.2353515625,Enna
+Rhopalocères,Pontia callidice,Piéride du Vélar,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685682,6.98159,A vue,Pelouse,VRAI,2757.29248046875,Enna
+Coléoptères,Coccinella venusta,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685682,6.98159,A vue,Au sol,FAUX,2757.29248046875,Enna
+Rhopalocères,Erebia pandrose,Moiré cendré,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685826,6.981473,A vue,Pelouse,VRAI,2754.4990234375,Enna
+Coléoptères,Cicindela gallica,Cicindèle des Alpes,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685826,6.981473,A vue,Au sol,VRAI,2754.4990234375,Enna
+Rhopalocères,Boloria pales,Nacré subalpin,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685682,6.98159,A vue,Pelouse,FAUX,2757.29248046875,Enna
+Rhopalocères,Pyrgus cacaliae,Hespérie du Pas-d'âne,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685682,6.98159,A vue,Pelouse,VRAI,2757.29248046875,Enna
+Rhopalocères,Erebia pluto,Moiré velouté,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685414,6.982698,A vue,Rocheux,VRAI,2771.33642578125,Enna
+Hétérocères,Psodos alticolaria,Psodos des sommets,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685433,6.982349,A vue,Rocheux,FAUX,2771.552978515625,Enna
+Coléoptères,Chrysomela lapponica,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685894,6.982,A vue,Au sol,VRAI,2764.630615234375,Enna
+NA,Casside,NA,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685692,6.981624,A vue,Chardon,FAUX,2757.84912109375,Enna
+Rhopalocères,Erebia aethiopellus,Moiré piémontais,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685692,6.981624,A vue,Prairie,VRAI,2757.84912109375,Enna
+Rhopalocères,Erebia mnestra,Moiré fauve,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685692,6.981624,A vue,Prairie,VRAI,2757.84912109375,Enna
+Hétérocères,Aterpia anderreggana,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.685692,6.981624,A vue,Prairie,VRAI,2757.84912109375,Enna
+NA,Pyrgus,NA,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691467,6.970652,A vue,Prairie,FAUX,2563.04638671875,Enna
+Hétérocères,Zygaena exulans,Zygène des alpages,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691467,6.970652,A vue,Prairie,VRAI,2563.04638671875,Enna
+Rhopalocères,Euphydryas cynthia,Damier de l'alchémille,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691467,6.970652,A vue,Prairie,VRAI,2563.04638671875,Enna
+Rhopalocères,Parnassius corybas,Petit apollon,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691539,6.970069,A vue,Prairie,VRAI,2555.704345703125,Enna
+Rhopalocères,Melitaea varia,Mélitée de la Gentiane,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691539,6.970069,A vue,Prairie,VRAI,2555.704345703125,Enna
+Rhopalocères,Polyommatus eros,Azuré de l'Oxytropide,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691539,6.970069,A vue,Prairie,FAUX,2555.704345703125,Enna
+Orthoptères,Gomphocerus sibiricus,Gomphocère des alpages,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.691539,6.970069,A vue,Prairie,FAUX,2555.704345703125,Enna
+Rhopalocères,Erebia epiphron,Moiré de la canche,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.692626,6.969956,A vue,Prairie,FAUX,2584.237060546875,Enna
+Rhopalocères,Erebia arvernensis,Moiré lustré,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.692626,6.969956,A vue,Prairie,FAUX,2584.237060546875,Enna
+NA,Pyrgus,NA,38,24/07/2021,7,07Juillet,Hautes-Alpes,Molines-en-Queyras,44.692626,6.969956,A vue,Prairie,FAUX,2584.237060546875,Enna
+Hétérocères,Cataclysme riguata,Veinée,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Catoptria pinella,Crambus des pinèdes,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Colostygia olivata,Cidarie olive,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Epirrhoe galiata,Mélanthie du caille-lait,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Idaea moniliata,Coquille,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Celypha flavipalpana,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Eudonia lacustrata,Eudorée des mousses,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Gastropacha quercifolia,Feuille morte du chêne,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Lithosia quadra,Lithosie quadrille,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,FAUX,915.607177734375,Enna
+Hétérocères,Recurvaria leucatella,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Hétérocères,Rhyacionia pinicolana,/,38,24/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673347,6.637311,Chasse nocturne,Pinède,VRAI,915.607177734375,Enna
+Rhopalocères,Hyponephele lycaon,Misis,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673051,6.637829,A vue,Lisière,VRAI,909.01190185546875,Enna
+Rhopalocères,Plebejus argyrognomon,Azuré des Coronilles,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673051,6.637829,A vue,Lisière,FAUX,909.01190185546875,Enna
+Coléoptères,Chlorophorus varius,Clyte varié,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673051,6.637829,A vue,Lisière,FAUX,909.01190185546875,Enna
+Rhopalocères,Apatura ilia,Petit mars changeant,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.673499,6.637596,A vue,Lisière,FAUX,916.86334228515625,Enna
+Rhopalocères,Lysandra coridon,Argus bleu-nacré,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683426,6.647632,A vue,Prairie,VRAI,1238.0830078125,Enna
+Rhopalocères,Laeosopis roboris,Thécla du Frêne,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683205,6.648936,A vue,Lisière,VRAI,1230.021240234375,Enna
+Rhopalocères,Polyommatus daphnis,Azuré de l'Orobe,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683257,6.64945,A vue,Prairie,VRAI,1249.0296630859375,Enna
+Rhopalocères,Polyommatus ripartii,Sablé provençal,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683718,6.648982,A vue,Prairie,VRAI,1251.8499755859375,Enna
+Rhopalocères,Hyponephele lupina,Louvet,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683665,6.649025,A vue,Chemin,VRAI,1251.943603515625,Enna
+Rhopalocères,Hipparchia genava,Sylvandre helvète,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.684153,6.649068,A vue,Chemin,FAUX,1285.16162109375,Enna
+Rhopalocères,Carcharodus lavatherae,Hespérie de l'Epiaire,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683535,6.649277,A vue,Prairie,FAUX,1256.5196533203125,Enna
+Diptères,Cylindromyia rufifrons,/,18,25/07/2021,7,07Juillet,Hautes-Alpes,Eygliers,44.683535,6.649277,A vue,Au sol,VRAI,1256.5196533203125,Enna
+Arachnides,Eresus kollari,Érèse coccinelle,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.661024,6.594551,A vue,Au sol,FAUX,876.909423828125,Enna
+Orthoptères,Epacromius tergestinus ,Oedipode des salines,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.657727,6.592657,A vue,Au sol,VRAI,873.49285888671875,Enna
+Orthoptères,Chorthippus pullus,Criquet des iscles,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.657727,6.592657,A vue,Au sol,VRAI,873.49285888671875,Enna
+Orthoptères,Tetrix tuerki,Tétrix grisâtre,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.658202,6.594319,A vue,Au sol,VRAI,871.15179443359375,Enna
+Orthoptères,Xya variegata,Tridactyle panaché,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.658202,6.594319,A vue,Au sol,VRAI,871.15179443359375,Enna
+Odonates,Sympetrum flaveolum,Sympétrum jaune d'or,18,25/07/2021,7,07Juillet,Hautes-Alpes,Réotier,44.659553,6.593867,A vue,Prairie,VRAI,873.8023681640625,Enna
+Rhopalocères,Polygonia c-album,Robert-le-diable,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Vaumeilh,44.291977,5.989568,A vue,Buddleia,FAUX,766.7833251953125,Enna
+Hémiptères,Coptosoma scutellatum,Punaise cuirassé,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.185232,5.824761,A vue,Trèfle,FAUX,798.5408935546875,Enna
+Rhopalocères,Quercusia quercus,Thécla du chêne,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.184801,5.823731,A vue,Chêne,FAUX,789.6248779296875,Enna
+Rhopalocères,Sloperia proto,Hespérie de l'herbe aux vent,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.185778,5.824428,A vue,Prairie,FAUX,802.6666259765625,Enna
+Névroptères,Distoleon tetragrammicus,Fourmillion longicorne,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.184824,5.822626,A vue,Lisière,VRAI,788.14141845703125,Enna
+Hémiptères,Gargara genistae,Petit diable,6,26/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Noyers-sur-Jabron,44.184932,5.824321,Fauchage,Prairie,FAUX,793.63153076171875,Enna
+Coléoptères,Mylabris flexuosa,/,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.977026,6.606048,A vue,Scabieuse,VRAI,2478.560546875,Enna
+Orthoptères,Melanoplus frigidus,Miramelle des frimas,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.978271,6.605919,A vue,Au sol,VRAI,2496.500244140625,Enna
+Hétérocères,Setina aurita,Ecaille alpine,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.978271,6.605919,A vue,Prairie,VRAI,2496.500244140625,Enna
+Rhopalocères,Coenonympha gardetta,Satyrion,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.978665,6.60429,A vue,Prairie,VRAI,2504.666259765625,Enna
+Hétérocères,Orenaia alpestralis,Orénaïa alpestre,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.978665,6.60429,A vue,Astéracée,VRAI,2504.666259765625,Enna
+Odonates,Somatochlora alpestris,Cordulie alpestre,6,28/07/2021,7,07Juillet,Hautes-Alpes,Val-des-Prés,44.975201,6.603986,A vue,Point d'eu,VRAI,2458.935791015625,Enna
+Rhopalocères,Limenitis populi,Grand sylvain,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.017918,6.604493,A vue,Au sol,VRAI,1602.9493408203125,Enna
+Rhopalocères,Erebia montana,Moiré striolé,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.017395,6.599184,A vue,Au sol,VRAI,1636.2366943359375,Enna
+Orthoptères,Tettigonia cantans,Sauterelle cymbalière,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.018072,6.588838,A vue,Prairie,FAUX,1654.67138671875,Enna
+Rhopalocères,Satyrium acaciae,Thécla de l'Amarel,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.017526,6.588164,A vue,Prairie,VRAI,1662.0032958984375,Enna
+Rhopalocères,Lycaena virgaureae,Cuivré de la verge-d'or,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.01821,6.588945,A vue,Apiacée,FAUX,1656.625732421875,Enna
+Coléoptères,Coccinula quatuordecimpustulata,/,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.018315,6.589505,Fauchage,Prairie,VRAI,1652.802734375,Enna
+Coléoptères,Ceratomegilla notata,/,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.018315,6.589505,Fauchage,Prairie,VRAI,1652.802734375,Enna
+Diptères,Herina frondescentiae,/,8,29/07/2021,7,07Juillet,Hautes-Alpes,Névache,45.05981,6.527054,Fauchage,Zone humide,VRAI,2028.687744140625,Enna
+Rhopalocères,Arethusana arethusa,Mercure,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.199463,5.937028,A vue,Garrigue,VRAI,500.733642578125,Enna
+Rhopalocères,Hipparchia statilinus,Faune,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.199463,5.937028,A vue,Garrigue,FAUX,500.733642578125,Enna
+Coléoptères,Psyllobora vigintiduopunctata,Coccinelle à 22 points,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.198829,5.935939,Fauchage,Prairie,FAUX,558.48046875,Enna
+Hémiptères,Pterotmetus staphyliniformis,/,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.198829,5.935939,Fauchage,Prairie,FAUX,558.48046875,Enna
+Hémiptères,Himacerus mirmicoides,Punaise myrmecophile,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.198829,5.935939,Fauchage,Prairie,FAUX,558.48046875,Enna
+Diptères,Orellia falcata,/,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.198829,5.935939,Fauchage,Prairie,VRAI,558.48046875,Enna
+Hémiptères,Trypetimorpha occidentalis,/,7,30/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Sisteron,44.198829,5.935939,Fauchage,Prairie,VRAI,558.48046875,Enna
+Coléoptères,Copris lunaris,Copris lunaire,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Geniez,44.234306,6.035609,A vue,Sur crotte,VRAI,1057.12451171875,Enna
+Diptères,Mesembrina meridiana,Mésembrine du midi,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Saint-Geniez,44.234306,6.035609,A vue,Sur crotte,VRAI,1057.12451171875,Enna
+Orthoptères,Pholidoptera griseoaptera,Decticelle cendrée,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246199,6.136073,A vue,Prairie,FAUX,1189.3651123046875,Enna
+Rhopalocères,Hipparchia fagi,Sylvandre,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246199,6.136073,A vue,Prairie,VRAI,1189.3651123046875,Enna
+Hétérocères,Scotopteryx bipunctaria,Ortholite biponctuée,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246241,6.136255,A vue,Prairie,VRAI,1189.66552734375,Enna
+Diptères,Spilomyia saltuum,/,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246241,6.136255,A vue,Prairie,VRAI,1189.66552734375,Enna
+Diptères,Chaetorellia jaceae,/,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246241,6.136255,Fauchage,Prairie,VRAI,1189.66552734375,Enna
+Coléoptères,Vibidia duodecimguttata,/,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246057,6.136082,Fauchage,Prairie,FAUX,1187.9178466796875,Enna
+Orthoptères,Leptophyes punctatissima,Leptophye ponctuée,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246241,6.136255,Fauchage,Prairie,FAUX,1189.66552734375,Enna
+Coléoptères,Pachytodes cerambyciformis,Lepture trapue,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246057,6.136082,A vue,Apiacée,VRAI,1187.9178466796875,Enna
+Hétérocères,Callimorpha dominula,Ecaille marbrée,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246057,6.136082,A vue,Apiacée,VRAI,1187.9178466796875,Enna
+Coléoptères,Pogonocherus decoratus,/,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246057,6.136082,Fauchage,Prairie,VRAI,1187.9178466796875,Enna
+Hémiptères,Planaphrodes bifasciatus,/,13,31/07/2021,7,07Juillet,Alpes-de-Haute-Provence,Authon,44.246241,6.136255,Fauchage,Prairie,VRAI,1189.66552734375,Enna
+Orthoptères,Calliptamus siciliae,Caloptène provençal,5,01/08/2021,8,08Aout,Alpes-de-Haute-Provence,Saint-Vincent-sur-Jabron,44.15405,5.770978,Fauchage,Prairie,VRAI,638.66009521484375,Enna
+Orthoptères,Decticus verrucivorus,Dectique verrucivore,5,01/08/2021,8,08Aout,Alpes-de-Haute-Provence,Cruis,44.113233,5.840412,A vue,Au sol,FAUX,1627.0474853515625,Enna
+Rhopalocères,Melanargia russiae,Échiquier d'Esper,5,01/08/2021,8,08Aout,Alpes-de-Haute-Provence,Cruis,44.113037,5.84134,A vue,Au sol,VRAI,1618.8702392578125,Enna
+Orthoptères,Omocestus haemorrhoidalis,Criquet rouge-queue,5,01/08/2021,8,08Aout,Alpes-de-Haute-Provence,Cruis,44.11327,5.842418,A vue,Au sol,VRAI,1623.9036865234375,Enna
+Diptères,Anthrax varius,/,5,01/08/2021,8,08Aout,Alpes-de-Haute-Provence,Cruis,44.114018,5.835841,A vue,Au sol,VRAI,1593.4681396484375,Enna
+Arachnides,Euscorpius flavicaudis,Scorpion noir à queue jaune,1,04/08/2021,8,08Aout,Alpes-de-Haute-Provence,Sisteron,44.197521,5.942674,A vue,Appart,VRAI,519.89422607421875,Enna
+Rhopalocères,Phengaris teleius,Azuré des sanguisorbes,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.437253,6.02592,A vue,Prairie,VRAI,578.40435791015625,Enna
+Hétérocères,Pyrausta purpuralis,Pyrale pourprée,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.43718,6.026011,A vue,Prairie,FAUX,578.512451171875,Enna
+Hémiptères,Stictocephala bisonia,Membracide bison,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.43718,6.026011,A vue,Prairie,FAUX,578.512451171875,Enna
+Rhopalocères,Lampides boeticus,Azuré porte-queue,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.438429,6.02556,A vue,Chemin,FAUX,578.569091796875,Enna
+Odonates,Sympetrum striolatum,Sympétrum strié,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.439371,6.027388,A vue,Point d'eau,FAUX,578.77984619140625,Enna
+Odonates,Ischnura pumilio,Agrion nain,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.439371,6.027388,A vue,Point d'eau,VRAI,578.77984619140625,Enna
+Orthoptères,Tetrix bolivari,Tétrix caucasien,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.439371,6.027388,A vue,Au sol,VRAI,578.77984619140625,Enna
+Orthoptères,Conocephalus fuscus,Conocéphale bigarré,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.439371,6.027388,A vue,Prairie,FAUX,578.77984619140625,Enna
+Orthoptères,Mecostethus parapleurus,Criquet des Roseaux,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.438999,6.026312,A vue,Prairie,FAUX,578.10504150390625,Enna
+Rhopalocères,Cupido argiades,Azuré du trèfle,11,05/08/2021,8,08Aout,Hautes-Alpes,La Saulce,44.438999,6.026312,A vue,Prairie,FAUX,578.10504150390625,Enna
+Rhopalocères,Cacyreus marshalli,Brun du Pélargonium,11,05/08/2021,8,08Aout,Alpes-de-Haute-Provence,Sisteron,44.197418,5.942227,A vue,Trèfle,FAUX,518.75579833984375,Enna
+Odonates,Sympetrum danae,Sympetrum noir,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.399169,6.769706,A vue,Point d'eau,VRAI,1559.1644287109375,Enna
+Hémiptères,Cicadella viridis,Cicadelle verte,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.399169,6.769706,A vue,Zone humide,FAUX,1559.1644287109375,Enna
+Odonates,Aeshna cyanea,Aeschne bleue,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.399169,6.769706,A vue,Point d'eau,FAUX,1559.1644287109375,Enna
+Odonates,Aeshna juncea,Aeschne des joncs,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.399169,6.769706,A vue,Point d'eau,VRAI,1559.1644287109375,Enna
+Rhopalocères,Erebia ligea,Moiré blanc-fascié,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.399048,6.769485,A vue,Zone humide,FAUX,1554.0604248046875,Enna
+Rhopalocères,Erebia aethiops,Moiré sylvicole,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.39906,6.768549,A vue,Prairie,FAUX,1536.611328125,Enna
+Rhopalocères,Erebia gorge,Moiré chamoisé,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.337615,6.791217,A vue,Rocheux,VRAI,2407.77392578125,Enna
+Orthoptères,Podisma dechambrei,Miramelle ligure,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.336115,6.785939,A vue,Pelouse,VRAI,2412.8203125,Enna
+Rhopalocères,Boloria napaea,Nacré des Renouées,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.33613,6.784297,A vue,Zone humide,VRAI,2405.3193359375,Enna
+Orthoptères,Pseudochorthippus parallelus,Criquet des pâtures,10,07/08/2021,8,08Aout,Alpes-de-Haute-Provence,Jausiers,44.413057,6.753808,A vue,Prairie,FAUX,1339.9124755859375,Enna
+Odonates,Cordulia aenea,Cordulie bronzé,4,08/08/2021,8,08Aout,Alpes-de-Haute-Provence,Lauzet-Ubaye,44.398052,6.395952,A vue,Point d'eau,FAUX,2139.79541015625,Enna
+Orthoptères,Omocestus viridulus,Criquet verdelet,4,08/08/2021,8,08Aout,Alpes-de-Haute-Provence,Lauzet-Ubaye,44.399294,6.394386,A vue,Pelouse,FAUX,2131.594482421875,Enna
+Hyménoptères,Mutilla europaea,Mutille européenne,4,08/08/2021,8,08Aout,Alpes-de-Haute-Provence,Lauzet-Ubaye,44.399294,6.394386,A vue,Au sol,VRAI,2131.594482421875,Enna
+Odonates,Somatochlora arctica,Cordulia arctique,4,08/08/2021,8,08Aout,Alpes-de-Haute-Provence,Lauzet-Ubaye,44.396496,6.406997,A vue,Point d'eau,VRAI,2007.0927734375,Enna
+Orthoptères,Meconema meridionalis,Méconème fragile,1,09/08/2021,8,08Aout,Alpes-de-Haute-Provence,Vaumeilh,44.291838,5.989358,A vue,Chataigner,VRAI,766.01873779296875,Enna
+Odonates,Sympetrum pedemontanum,Sympétrum du piémont,2,11/08/2021,8,08Aout,Alpes-de-Haute-Provence,Volonne,44.131524,5.987628,A vue,Point d'eau,VRAI,437.5295104980469,Enna
+Odonates,Erythromma lindenii,Agrion de Vander Linden,2,11/08/2021,8,08Aout,Alpes-de-Haute-Provence,Volonne,44.131524,5.987628,A vue,Point d'eau,FAUX,437.5295104980469,Enna
+Orthoptères,Psophus stridulus,Oedipode stridulante,4,12/08/2021,8,08Aout,Alpes-de-Haute-Provence,Thorame-Haute,44.085784,6.557129,A vue,Rocheux,VRAI,1109.89501953125,Enna
+Hétérocères,Proserpinus proserpina,Sphinx de l'Epilobe,4,12/08/2021,8,08Aout,Alpes-de-Haute-Provence,Thorame-Haute,44.071971,6.582656,A vue,Epilobe,VRAI,1235.075927734375,Enna
+Orthoptères,Ephippiger terrestris,Ephippigère terrestre,4,12/08/2021,8,08Aout,Alpes-de-Haute-Provence,Thorame-Haute,44.071808,6.582131,A vue,Apiacée,VRAI,1222.1500244140625,Enna
+Hétérocères,Hyles vespertilio,Sphinx chauve-souris,4,12/08/2021,8,08Aout,Alpes-de-Haute-Provence,Thorame-Haute,44.071808,6.582131,A vue,Epilobe,VRAI,1222.1500244140625,Enna
+Odonates,Aeshna affinis,Aeschne affine,2,14/08/2021,8,08Aout,Vaucluse,Monieux,44.057353,5.356672,A vue,Point d'eau,FAUX,625.54595947265625,Enna
+Rhopalocères,Hesperia comma,Virgule,2,14/08/2021,8,08Aout,Vaucluse,Monieux,44.055008,5.352352,A vue,Prairie,FAUX,634.358642578125,Enna
+Orthoptères,Pezotettix giornae,Criquet pansu,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058654,5.357484,A vue,Prairie,FAUX,625.674560546875,Enna
+Hémiptères,Phyllomorpha laciniata,/,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058305,5.355647,A vue,Friche,VRAI,634.53662109375,Enna
+Hémiptères,Tritomegas sexmaculatus,/,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058305,5.355647,A vue,Friche,VRAI,634.53662109375,Enna
+Mantoptères,Ameles decolor,Mante décoloré,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058313,5.355422,A vue,Friche,FAUX,637.373291015625,Enna
+Hémiptères,Ancyrosoma leucograme,/,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058313,5.355422,Fauchage,Friche,FAUX,637.373291015625,Enna
+Hémiptères,Stagonomus bipunctatus,/,6,15/08/2021,8,08Aout,Vaucluse,Monieux,44.058313,5.355422,A vue,Friche,VRAI,637.373291015625,Enna
+Diptères,Volucella inanis,Volucelle vide,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60179,5.8888489999999996,A vue,Astéracée,VRAI,1442.7376708984375,Enna
+Coléoptères,Stictoleptura rubra,Lepture rouge,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60179,5.8888489999999996,A vue,Astéracée,FAUX,1442.7376708984375,Enna
+Rhopalocères,Erebia neoridas,Moiré automnal,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.601499,5.891159,A vue,Prairie,VRAI,1420.3143310546875,Enna
+Coléoptères,Chrysolina herbacea,Chrysomèle de la menthe,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60127,5.894686,A vue,Menthe,VRAI,1387.4139404296875,Enna
+Diptères,Prosena siberita,/,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60127,5.894686,A vue,Astéracée,VRAI,1387.4139404296875,Enna
+Hémiptères,Evacanthus interruptus,/,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60127,5.894686,Fauchage,Menthe,VRAI,1387.4139404296875,Enna
+Orthoptères,Roeseliana roeselii,Decticelle bariolée,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.601212,5.892016,A vue,Prairie,FAUX,1409.244873046875,Enna
+Diptères,Oxyna flavipennis,/,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.600955,5.891999,Fauchage,Prairie,VRAI,1407.92041015625,Enna
+Orthoptères,Chorthippus apricarius,Criquet des adrets,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60081,5.891645,A vue,Prairie,VRAI,1409.6993408203125,Enna
+Hémiptères,Carpocoris fuscipinus,/,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.601803,5.888684,Fauchage,Apiacée,VRAI,1443.0162353515625,Enna
+Hémiptères,Sciocoris macrocephalus,/,11,21/08/2021,8,08Aout,Hautes-Alpes,Montmaur,44.60149,5.890347,Fauchage,Prairie,VRAI,1426.4271240234375,Enna
+Hémiptères,Nezara viridula,/,4,28/08/2021,8,08Aout,Lozère,Sainte-Enimie,44.365728,3.41431,Fauchage,Friche,FAUX,476.8805847167969,Enna
+Rhopalocères,Chazara briseis,Hermite,4,28/08/2021,8,08Aout,Lozère,Sainte-Enimie,44.365728,3.41431,A vue,Rocheux,FAUX,476.8805847167969,Enna
+Coléoptères,Subcoccinella vigintiquatuorpunctata,Coccinelle à 24 points,4,28/08/2021,8,08Aout,Lozère,Sainte-Enimie,44.352282,3.453957,Fauchage,Friche,FAUX,488.2383728027344,Enna
+Orthoptères,Phaneroptera nana,Phanéroptère méridional,4,28/08/2021,8,08Aout,Lozère,Sainte-Enimie,44.352282,3.453957,A vue,Ronce,FAUX,488.2383728027344,Enna
+Orthoptères,Gampsocleis glabra,Dectique des brandes,4,29/08/2021,8,08Aout,Lozère,Saint-Étienne-du-Valdonnez,44.454611,3.617299,A l''ouïe,Prairie,VRAI,1380.708740234375,Enna
+Odonates,Lestes sponsa,Leste fiancé,4,29/08/2021,8,08Aout,Lozère,Saint-Étienne-du-Valdonnez,44.454057,3.61708,A vue,Tourbière,VRAI,1374.85888671875,Enna
+Orthoptères,Stethophyma grossum,Criquet ensanglanté,4,29/08/2021,8,08Aout,Lozère,Saint-Étienne-du-Valdonnez,44.45382,3.61706,A l'ouïe,Tourbière,FAUX,1372.7796630859375,Enna
+Orthoptères,Chrysochraon dispar,Criquet des clairières,4,29/08/2021,8,08Aout,Lozère,Saint-Étienne-du-Valdonnez,44.454057,3.61708,A vue,Tourbière,FAUX,1374.85888671875,Enna
+Diptères,Hemipenthes velutina,/,3,30/08/2021,8,08Aout,Lozère,Saint-Pierre-des-Tripiers,44.204871,3.24785,A vue,Au sol,VRAI,878.31512451171875,Enna
+Hémiptères,Rhopalus conspersus,/,3,30/08/2021,8,08Aout,Lozère,Saint-Pierre-des-Tripiers,44.204871,3.24785,Fauchage,Chemin,VRAI,878.31512451171875,Enna
+Hémiptères,Tropidothorax leucopterus,/,3,30/08/2021,8,08Aout,Lozère,Saint-Pierre-des-Tripiers,44.204871,3.24785,Fauchage,Chemin,VRAI,878.31512451171875,Enna
+Orthoptères,Chorthippus biguttulus,Criquet mélodieux,2,05/09/2021,9,09Septembre,Lozère,Saint-Pierre-des-Tripiers,44.213203,3.276556,Fauchage,Pelouse,VRAI,883.80078125,Enna
+Orthoptères,Chorthippus mollis,Criquet duettiste,2,05/09/2021,9,09Septembre,Lozère,Saint-Pierre-des-Tripiers,44.213203,3.276556,A l'ouïe,Pelouse,VRAI,883.80078125,Enna
+Coléoptères,Sisyphus schaefferi,Sisyphe,2,10/09/2021,9,09Septembre,Herault,Saint-Bauzille-de-Putois,43.911594,3.736433,A vue,Plage,VRAI,138.32595825195312,Enna
+Dermaptères,Labidura riparia,Perce-oreille des plages,2,10/09/2021,9,09Septembre,Herault,Saint-Bauzille-de-Putois,43.911594,3.736433,A vue,Plage,FAUX,138.32595825195312,Enna
+Orthoptères,Acrida ungarica,Truxale occitane,2,16/09/2021,9,09Septembre,Italie,Rovigo,45.0268,12.367055,A vue,Polder,FAUX,0.08237382769584656,Enna
+Orthoptères,Locusta cinerascens,Criquet cendré,2,16/09/2021,9,09Septembre,Italie,Rovigo,45.0268,12.367055,A vue,Polder,FAUX,0.08237382769584656,Enna
+Hémiptères,Ricania speculum,/,1,26/09/2021,9,09Septembre,Italie,Levanto,44.20137,9.619116,A vue,Ailante,VRAI,344.8794250488281,Enna
+Hémiptères,Orsillus depressus,/,4,09/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.207698,3.273068,Battage,Genévrier,VRAI,875.98480224609375,Enna
+Psocoptères,Blaste quadrimaculata,/,4,09/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.207698,3.273068,Battage,Genévrier,VRAI,875.98480224609375,Enna
+Arachnides,Philodromus margaritatus,Philodrome tigré,4,09/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.207698,3.273068,Battage,Pin,FAUX,875.98480224609375,Enna
+Hémiptères,Pilophorus perplexus,/,4,09/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.207698,3.273068,Battage,Pin,VRAI,875.98480224609375,Enna
+Coléoptères,Chrysolina sanguinolenta,Chrysomèle sanguinolente,4,10/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.217644,3.274399,Fauchage,Prairie,FAUX,900.21893310546875,Enna
+Hémiptères,Micrelytra fossularum,/,4,10/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.218005,3.273462,Fauchage,Prairie,FAUX,902.8388671875,Enna
+Hémiptères,Peribalus strictus,/,4,10/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.218005,3.273462,Fauchage,Prairie,FAUX,902.8388671875,Enna
+Diptères,Coremacera marginata,/,4,10/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.217086,3.276266,Fauchage,Prairie,VRAI,895.44598388671875,Enna
+Hémiptères,Phymata crassipes,Punaise à pattes de crabe,1,11/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.210341,3.278415,Battage,Pin,VRAI,885.02935791015625,Enna
+Coléoptères,Cassida margaritacea,/,1,14/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.215747,3.277509,Fauchage,Chemin,VRAI,886.748779296875,Enna
+Orthoptères,Nemobius sylvestris,Grillon des bois,2,16/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.223618,3.277821,A vue,Au sol,FAUX,909.7037353515625,Enna
+Arachnides,Neoscona adianta,/,2,16/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.22516,3.273307,Fauchage,Prairie,FAUX,939.79400634765625,Enna
+Arachnides,Carrhotus xanthogramma,Saltique orangé,2,17/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.213151,3.273289,Battage,Pin,FAUX,896.0540771484375,Enna
+Hétérocères,Acronicata euphorbiae,Noctuelle de l'Euphorbe,2,17/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.215442,3.27444,A vue,Au sol,FAUX,902.03125,Enna
+Myriapodes,Scutigera coleoptrata,Scutigère véloce,2,21/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.21692,3.276336,A vue,Batiment,FAUX,895.23675537109375,Enna
+Hémiptères,Reduvius personatus,Réduve masqué,2,21/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.21692,3.276336,A vue,Batiment,VRAI,895.23675537109375,Enna
+Arachnides,Steatoda triangulosa,Malmignatte des maisons,4,22/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,44.21692,3.276336,A vue,Batiment,FAUX,895.23675537109375,Enna
+Coléoptères,Pogonocherus caroli,/,4,22/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,NA,NA,Battage,Pin,VRAI,NA,Enna
+Arachnides,Araneus angulatus,Épeire anguleuse,4,22/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,NA,NA,Battage,Pin,FAUX,NA,Enna
+Hémiptères,Alloeotomus germanicus,/,4,22/10/2021,10,10Octobre,Lozère,Saint-Pierre-des-Tripiers,NA,NA,Fauchage,Prairie,VRAI,NA,Enna
+Hémiptères,Syromastus rhombeus,/,2,23/10/2021,10,10Octobre,Lozère,Fraissinet-de-Fourques,44.230185,3.523311,Fauchage,Prairie,VRAI,NA,Enna
+Hémiptères,Geomyza tripunctata,/,2,23/10/2021,10,10Octobre,Lozère,Fraissinet-de-Fourques,44.230185,3.523311,Fauchage,Prairie,VRAI,NA,Enna
+Hémiptères,Pantilius tunicatus,/,2,24/10/2021,10,10Octobre,Lozère,La Malène,44.292318,3.304401,Battage,Chêne,VRAI,NA,Enna
+Blattoptères,Ectobius lucidus,/,2,24/10/2021,10,10Octobre,Lozère,La Malène,44.292318,3.304401,Battage,Chêne,VRAI,NA,Enna
+Hémiptères,Euceraphis punctipennis,Puceron du bouleau pubescent,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Bouleau,VRAI,NA,Enna
+Hémiptères,Kleidocerys resedae,Punaise des chatons du bouleau,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Bouleau,FAUX,NA,Enna
+Hémiptères,Macrolophus pygmaeus,/,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Sauge,VRAI,NA,Enna
+Névroptères,Micromus angulatus,Chrysope brune,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Cornouiller,VRAI,NA,Enna
+Hémiptères,Eucarazzia elegans,/,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Sauge,VRAI,NA,Enna
+Hémiptères,Anoecia corni,Puceron du Cornouiller,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Cornouiller,VRAI,NA,Enna
+Hémiptères,Zygina flammigera,/,7,03/11/2021,11,11Novembre,Val-d'Oise,Ermont,48.996646,2.260012,Battage,Lierre,VRAI,NA,Enna
+Hémiptères,Asiraca clavicornis,Delphacide à corne,2,12/11/2021,11,11Novembre,Somme,Corbie,49.907114,2.509432,Battage,Thym,FAUX,NA,Enna
+Hémiptères,Ribautiana debilis,/,2,12/11/2021,11,11Novembre,Somme,Corbie,49.907114,2.509432,Battage,Ronce,VRAI,NA,Enna
+Hémiptères,Eupteryx decemnotata,Cicadelle ligure,1,22/11/2021,11,11Novembre,Somme,Corbie,49.907114,2.509432,Battage,Thym,FAUX,NA,Enna
